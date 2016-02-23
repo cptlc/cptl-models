@@ -1,0 +1,54 @@
+{
+    "8sub.cypsa.projects.cptl-c.org":
+    {"graph": "graph/8sub.json",
+     "domain-name": "hierarchy_tree/domain-names/hierarchy_tree.json",
+     "ip":"hierarchy_tree/ip/hierarchy_tree.json"},
+    
+    "network.capital-city.8sub.cypsa.projects.cptl-c.org":
+    {"graph": "graph/substation_network/json/capital-city.json"},
+
+    "yard.capital-city.8sub.cypsa.projects.cptl-c.org":
+    {"graph": "graph/substation_yard/json/capital-city.json"},
+
+    "network.cypress-creek.8sub.cypsa.projects.cptl-c.org":
+    {"graph": "graph/substation_network/json/cypress-creek.json"},
+
+    "yard.cypress-creek.8sub.cypsa.projects.cptl-c.org":
+    {"graph": "graph/substation_yard/json/cypress-creek.json"},
+
+    "network.haverbrook.8sub.cypsa.projects.cptl-c.org":
+    {"graph": "graph/substation_network/json/haverbrook.json"},
+
+    "yard.haverbrook.8sub.cypsa.projects.cptl-c.org":
+    {"graph": "graph/substation_yard/json/haverbrook.json"},
+
+    "network.north-haverbrook.8sub.cypsa.projects.cptl-c.org":
+    {"graph": "graph/substation_network/json/north-haverbrook.json"},
+
+    "yard.north-haverbrook.8sub.cypsa.projects.cptl-c.org":
+    {"graph": "graph/substation_yard/json/north-haverbrook.json"},
+
+    "network.odgenville.8sub.cypsa.projects.cptl-c.org":
+    {"graph": "graph/substation_network/json/odgenville.json"},
+
+    "yard.odgenville.8sub.cypsa.projects.cptl-c.org":
+    {"graph": "graph/substation_yard/json/odgenville.json"},
+
+    "network.paris.8sub.cypsa.projects.cptl-c.org":
+    {"graph": "graph/substation_network/json/paris.json"},
+
+    "yard.paris.8sub.cypsa.projects.cptl-c.org":
+    {"graph": "graph/substation_yard/json/paris.json"},
+
+    "network.shelbyville.8sub.cypsa.projects.cptl-c.org":
+    {"graph": "graph/substation_network/json/shelbyville.json"},
+
+    "yard.shelbyville.8sub.cypsa.projects.cptl-c.org":
+    {"graph": "graph/substation_yard/json/shelbyville.json"},
+
+    "network.springfield.8sub.cypsa.projects.cptl-c.org":
+    {"graph": "graph/substation_network/json/springfield.json"},
+
+    "yard.springfield.8sub.cypsa.projects.cptl-c.org":
+    {"graph": "graph/substation_yard/json/springfield.json"}        
+}

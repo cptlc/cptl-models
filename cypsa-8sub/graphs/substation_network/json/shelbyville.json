@@ -1,0 +1,201 @@
+{
+  "nodes": [
+    {
+      "rdfs:type": "snet:Switch", 
+      "cptlc:hasURI": "http://SEL_3620.network.shelbyville.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "192.168.6.200", 
+      "cptlc:hasUUID": "65986695-cc11-463e-ae2f-83a3df1258c4"
+    }, 
+    {
+      "rdfs:type": "snet:DistanceRelay", 
+      "cptlc:hasURI": "http://SEL_421_1.network.shelbyville.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.36.1.201", 
+      "cptlc:hasUUID": "f8486fb3-83fd-4401-a6f4-f93f7c088e87"
+    }, 
+    {
+      "rdfs:type": "snet:DistanceRelay", 
+      "cptlc:hasURI": "http://SEL_421_2.network.shelbyville.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.36.1.202", 
+      "cptlc:hasUUID": "137bb87c-2302-4a6a-b09b-ba198f4e33a1"
+    }, 
+    {
+      "rdfs:type": "snet:DistanceRelay", 
+      "cptlc:hasURI": "http://SEL_421_3.network.shelbyville.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.36.1.203", 
+      "cptlc:hasUUID": "67e354a9-07ed-453d-9da3-10f5f775f3e1"
+    }, 
+    {
+      "rdfs:type": "snet:OvercurrentRelay", 
+      "cptlc:hasURI": "http://SEL_451_1.network.shelbyville.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.36.1.101", 
+      "cptlc:hasUUID": "fcf89e43-74b4-404b-a350-e737f533fd83"
+    }, 
+    {
+      "rdfs:type": "snet:OvercurrentRelay", 
+      "cptlc:hasURI": "http://SEL_451_2.network.shelbyville.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.36.1.102", 
+      "cptlc:hasUUID": "43d4b592-7131-4940-8a23-2487682e00f5"
+    }, 
+    {
+      "rdfs:type": "snet:OvercurrentRelay", 
+      "cptlc:hasURI": "http://SEL_451_3.network.shelbyville.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.36.1.103", 
+      "cptlc:hasUUID": "a9d2e23a-749a-4cd0-879e-f279be9aaa70"
+    }, 
+    {
+      "rdfs:type": "snet:OvercurrentRelay", 
+      "cptlc:hasURI": "http://SEL_451_4.network.shelbyville.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.36.1.104", 
+      "cptlc:hasUUID": "b6b8db05-c60b-41f0-92a8-a460b1633952"
+    }, 
+    {
+      "rdfs:type": "snet:OvercurrentRelay", 
+      "cptlc:hasURI": "http://SEL_451_5.network.shelbyville.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.36.1.105", 
+      "cptlc:hasUUID": "a1dd879f-8285-4a81-ac8b-62e8fdf6fa80"
+    }, 
+    {
+      "rdfs:type": "snet:OvercurrentRelay", 
+      "cptlc:hasURI": "http://SEL_451_6.network.shelbyville.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.36.1.106", 
+      "cptlc:hasUUID": "efac9fae-64a2-4211-a5cf-49a2e5016ffb"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://DistanceRelay_2.network.north-haverbrook.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "e06d008d-f286-4f46-bd2f-bf913aaecc49"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://SEL_421_4.network.cypress-creek.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "05bf5cb2-0492-4b6b-88ff-f73eef19302f"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://SEL_421_1.network.paris.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "a9a84b0b-5757-4139-8a82-4fa77105fbf7"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://Shelbyville$BRK$2629.yard.shelbyville.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "54f75a1c-7a2b-4bec-8aa5-0823610da2d2"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://Shelbyville$BRK$2928.yard.shelbyville.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "5c1cb0b2-1a24-4f8d-9da0-4841a794a03f"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://Shelbyville$BRK$3132.yard.shelbyville.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "9e51260d-8401-46e9-b454-f432a2ad8674"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://Shelbyville$BRK$3031.yard.shelbyville.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "56eaf44a-bb18-443d-80a1-935a0e64d6f2"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://Shelbyville$BRK$2729.yard.shelbyville.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "14684f21-1650-4b0c-a577-5fd1904612d3"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://Shelbyville$BRK$2931.yard.shelbyville.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "5336c1b1-2d7c-44a1-99dc-f7de11240877"
+    }
+  ], 
+  "links": [
+    {
+      "source": "65986695-cc11-463e-ae2f-83a3df1258c4", 
+      "relation": "cptlc:hasLink", 
+      "target": "f8486fb3-83fd-4401-a6f4-f93f7c088e87"
+    }, 
+    {
+      "source": "65986695-cc11-463e-ae2f-83a3df1258c4", 
+      "relation": "cptlc:hasLink", 
+      "target": "137bb87c-2302-4a6a-b09b-ba198f4e33a1"
+    }, 
+    {
+      "source": "65986695-cc11-463e-ae2f-83a3df1258c4", 
+      "relation": "cptlc:hasLink", 
+      "target": "67e354a9-07ed-453d-9da3-10f5f775f3e1"
+    }, 
+    {
+      "source": "65986695-cc11-463e-ae2f-83a3df1258c4", 
+      "relation": "cptlc:hasLink", 
+      "target": "fcf89e43-74b4-404b-a350-e737f533fd83"
+    }, 
+    {
+      "source": "65986695-cc11-463e-ae2f-83a3df1258c4", 
+      "relation": "cptlc:hasLink", 
+      "target": "43d4b592-7131-4940-8a23-2487682e00f5"
+    }, 
+    {
+      "source": "65986695-cc11-463e-ae2f-83a3df1258c4", 
+      "relation": "cptlc:hasLink", 
+      "target": "a9d2e23a-749a-4cd0-879e-f279be9aaa70"
+    }, 
+    {
+      "source": "65986695-cc11-463e-ae2f-83a3df1258c4", 
+      "relation": "cptlc:hasLink", 
+      "target": "b6b8db05-c60b-41f0-92a8-a460b1633952"
+    }, 
+    {
+      "source": "65986695-cc11-463e-ae2f-83a3df1258c4", 
+      "relation": "cptlc:hasLink", 
+      "target": "a1dd879f-8285-4a81-ac8b-62e8fdf6fa80"
+    }, 
+    {
+      "source": "65986695-cc11-463e-ae2f-83a3df1258c4", 
+      "relation": "cptlc:hasLink", 
+      "target": "efac9fae-64a2-4211-a5cf-49a2e5016ffb"
+    }, 
+    {
+      "source": "f8486fb3-83fd-4401-a6f4-f93f7c088e87", 
+      "relation": "cptlc:hasLink", 
+      "target": "e06d008d-f286-4f46-bd2f-bf913aaecc49"
+    }, 
+    {
+      "source": "137bb87c-2302-4a6a-b09b-ba198f4e33a1", 
+      "relation": "cptlc:hasLink", 
+      "target": "05bf5cb2-0492-4b6b-88ff-f73eef19302f"
+    }, 
+    {
+      "source": "67e354a9-07ed-453d-9da3-10f5f775f3e1", 
+      "relation": "cptlc:hasLink", 
+      "target": "a9a84b0b-5757-4139-8a82-4fa77105fbf7"
+    }, 
+    {
+      "source": "fcf89e43-74b4-404b-a350-e737f533fd83", 
+      "relation": "snet:hasBreakerConnections", 
+      "target": "54f75a1c-7a2b-4bec-8aa5-0823610da2d2"
+    }, 
+    {
+      "source": "43d4b592-7131-4940-8a23-2487682e00f5", 
+      "relation": "snet:hasBreakerConnections", 
+      "target": "5c1cb0b2-1a24-4f8d-9da0-4841a794a03f"
+    }, 
+    {
+      "source": "a9d2e23a-749a-4cd0-879e-f279be9aaa70", 
+      "relation": "snet:hasBreakerConnections", 
+      "target": "9e51260d-8401-46e9-b454-f432a2ad8674"
+    }, 
+    {
+      "source": "b6b8db05-c60b-41f0-92a8-a460b1633952", 
+      "relation": "snet:hasBreakerConnections", 
+      "target": "56eaf44a-bb18-443d-80a1-935a0e64d6f2"
+    }, 
+    {
+      "source": "a1dd879f-8285-4a81-ac8b-62e8fdf6fa80", 
+      "relation": "snet:hasBreakerConnections", 
+      "target": "14684f21-1650-4b0c-a577-5fd1904612d3"
+    }, 
+    {
+      "source": "efac9fae-64a2-4211-a5cf-49a2e5016ffb", 
+      "relation": "snet:hasBreakerConnections", 
+      "target": "5336c1b1-2d7c-44a1-99dc-f7de11240877"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "nodes": [
+    {
+      "rdfs:type": "snet:Switch", 
+      "cptlc:hasURI": "http://Switch_1.network.capital-city.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "192.168.7.200", 
+      "cptlc:hasUUID": "77f78ca0-3f59-4d28-b098-f6d67e581623"
+    }, 
+    {
+      "rdfs:type": "snet:DistanceRelay", 
+      "cptlc:hasURI": "http://DistanceRelay_1.network.capital-city.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.37.1.201", 
+      "cptlc:hasUUID": "2753c46f-0a3c-4213-8f3c-41dc16e8a60a"
+    }, 
+    {
+      "rdfs:type": "snet:OvercurrentRelay", 
+      "cptlc:hasURI": "http://OvercurrentRelay_1.network.capital-city.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.37.1.101", 
+      "cptlc:hasUUID": "5132181c-be87-4ced-b3a9-b7140e5ff39c"
+    }, 
+    {
+      "rdfs:type": "snet:OvercurrentRelay", 
+      "cptlc:hasURI": "http://OvercurrentRelay_2.network.capital-city.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.37.1.102", 
+      "cptlc:hasUUID": "439a58ac-e7b2-45ce-a341-d33889b8a7ff"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://SEL_421_7.network.cypress-creek.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "d5f19e38-e00a-404f-9c6b-123ae4eebde2"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://Capital_City$BRK$4546.yard.capital-city.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "62e9bea6-a84c-484c-b5c9-6496d3ac8a1a"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://Capital_City$BRK$4647.yard.capital-city.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "2fb45dfb-2024-4e9b-be90-aeaa791df54b"
+    }
+  ], 
+  "links": [
+    {
+      "source": "77f78ca0-3f59-4d28-b098-f6d67e581623", 
+      "relation": "cptlc:hasLink", 
+      "target": "5132181c-be87-4ced-b3a9-b7140e5ff39c"
+    }, 
+    {
+      "source": "2753c46f-0a3c-4213-8f3c-41dc16e8a60a", 
+      "relation": "cptlc:hasLink", 
+      "target": "d5f19e38-e00a-404f-9c6b-123ae4eebde2"
+    }, 
+    {
+      "source": "2753c46f-0a3c-4213-8f3c-41dc16e8a60a", 
+      "relation": "cptlc:hasLink", 
+      "target": "439a58ac-e7b2-45ce-a341-d33889b8a7ff"
+    }, 
+    {
+      "source": "2753c46f-0a3c-4213-8f3c-41dc16e8a60a", 
+      "relation": "snet:hasBreakerConnections", 
+      "target": "62e9bea6-a84c-484c-b5c9-6496d3ac8a1a"
+    }, 
+    {
+      "source": "5132181c-be87-4ced-b3a9-b7140e5ff39c", 
+      "relation": "cptlc:hasLink", 
+      "target": "2753c46f-0a3c-4213-8f3c-41dc16e8a60a"
+    }, 
+    {
+      "source": "5132181c-be87-4ced-b3a9-b7140e5ff39c", 
+      "relation": "snet:hasBreakerConnections", 
+      "target": "62e9bea6-a84c-484c-b5c9-6496d3ac8a1a"
+    }, 
+    {
+      "source": "439a58ac-e7b2-45ce-a341-d33889b8a7ff", 
+      "relation": "snet:hasBreakerConnections", 
+      "target": "2fb45dfb-2024-4e9b-be90-aeaa791df54b"
+    }
+  ]
+}

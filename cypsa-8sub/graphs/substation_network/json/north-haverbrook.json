@@ -1,0 +1,237 @@
+{
+  "nodes": [
+    {
+      "rdfs:type": "snet:Switch", 
+      "cptlc:hasURI": "http://Switch_1.network.north-haverbrook.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "192.168.3.200", 
+      "cptlc:hasUUID": "13bce4b8-3364-4126-8368-63fe251864a4"
+    }, 
+    {
+      "rdfs:type": "snet:DistanceRelay", 
+      "cptlc:hasURI": "http://DistanceRelay_1.network.north-haverbrook.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.33.1.201", 
+      "cptlc:hasUUID": "64fafacf-03fe-4877-80fb-46531ca2bdaf"
+    }, 
+    {
+      "rdfs:type": "snet:DistanceRelay", 
+      "cptlc:hasURI": "http://DistanceRelay_2.network.north-haverbrook.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.33.1.202", 
+      "cptlc:hasUUID": "59748548-734f-4b54-bad0-71ca8cc63caf"
+    }, 
+    {
+      "rdfs:type": "snet:DistanceRelay", 
+      "cptlc:hasURI": "http://DistanceRelay_3.network.north-haverbrook.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.33.1.203", 
+      "cptlc:hasUUID": "0f762aee-deed-4c16-9f4b-cc7501e94607"
+    }, 
+    {
+      "rdfs:type": "snet:OvercurrentRelay", 
+      "cptlc:hasURI": "http://OvercurrentRelay_1.network.north-haverbrook.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.33.1.101", 
+      "cptlc:hasUUID": "0d61ae49-16d2-4caa-85ca-c0522bd9e8b2"
+    }, 
+    {
+      "rdfs:type": "snet:OvercurrentRelay", 
+      "cptlc:hasURI": "http://OvercurrentRelay_2.network.north-haverbrook.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.33.1.102", 
+      "cptlc:hasUUID": "67c266a7-43d3-40f7-9f87-189a2fcd2ee7"
+    }, 
+    {
+      "rdfs:type": "snet:OvercurrentRelay", 
+      "cptlc:hasURI": "http://OvercurrentRelay_3.network.north-haverbrook.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.33.1.103", 
+      "cptlc:hasUUID": "43b53562-dc7b-41a4-9ad0-debae65b0538"
+    }, 
+    {
+      "rdfs:type": "snet:OvercurrentRelay", 
+      "cptlc:hasURI": "http://OvercurrentRelay_4.network.north-haverbrook.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.33.1.104", 
+      "cptlc:hasUUID": "81a375b7-62cc-4d72-bded-d59974a7cea3"
+    }, 
+    {
+      "rdfs:type": "snet:OvercurrentRelay", 
+      "cptlc:hasURI": "http://OvercurrentRelay_5.network.north-haverbrook.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.33.1.105", 
+      "cptlc:hasUUID": "a090cc41-df51-4dd8-9007-77c8f5cb86da"
+    }, 
+    {
+      "rdfs:type": "snet:OvercurrentRelay", 
+      "cptlc:hasURI": "http://OvercurrentRelay_6.network.north-haverbrook.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.33.1.106", 
+      "cptlc:hasUUID": "4b30a284-ab49-4253-be6b-5e95b574f408"
+    }, 
+    {
+      "rdfs:type": "snet:OvercurrentRelay", 
+      "cptlc:hasURI": "http://OvercurrentRelay_7.network.north-haverbrook.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.33.1.107", 
+      "cptlc:hasUUID": "e69e0a5d-135d-4ece-a01c-deefcfbb9701"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://SEL_421_2.network.odgenville.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "d89719b9-31fb-4231-ac49-74af9116487d"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://North_Haverbrook$BRK$78.yard.north-haverbrook.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "7ba56574-6d0e-456d-9452-13ee38e8ba35"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://SEL_421_1.network.shelbyville.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "480622cc-1dcb-4219-92e8-150fac66bfae"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://North_Haverbrook$BRK$1413.yard.north-haverbrook.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "1defdcaa-b1ba-45f7-a074-97745b98a417"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://SEL_421_3.network.cypress-creek.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "adcbd54d-8f75-48ba-a99e-1d3d08e23141"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://North_Haverbrook$BRK$1112.yard.north-haverbrook.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "69846f54-74f1-4f2e-ba42-979a9f20109e"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://North_Haverbrook$BRK$910.yard.north-haverbrook.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "527be059-68d3-4da2-a1d2-cbaa4688b242"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://North_Haverbrook$BRK$913.yard.north-haverbrook.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "c5ec99ad-8d32-4dd5-b6f2-c5429da32988"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://North_Haverbrook$BRK$89.yard.north-haverbrook.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "a4bdfe51-352a-45cc-af53-51b4886f617a"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://North_Haverbrook$BRK$812.yard.north-haverbrook.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "d697baa5-4c3c-4541-83f9-debf0903520b"
+    }
+  ], 
+  "links": [
+    {
+      "source": "13bce4b8-3364-4126-8368-63fe251864a4", 
+      "relation": "cptlc:hasLink", 
+      "target": "0d61ae49-16d2-4caa-85ca-c0522bd9e8b2"
+    }, 
+    {
+      "source": "64fafacf-03fe-4877-80fb-46531ca2bdaf", 
+      "relation": "cptlc:hasLink", 
+      "target": "67c266a7-43d3-40f7-9f87-189a2fcd2ee7"
+    }, 
+    {
+      "source": "64fafacf-03fe-4877-80fb-46531ca2bdaf", 
+      "relation": "cptlc:hasLink", 
+      "target": "d89719b9-31fb-4231-ac49-74af9116487d"
+    }, 
+    {
+      "source": "64fafacf-03fe-4877-80fb-46531ca2bdaf", 
+      "relation": "snet:hasBreakerConnections", 
+      "target": "7ba56574-6d0e-456d-9452-13ee38e8ba35"
+    }, 
+    {
+      "source": "59748548-734f-4b54-bad0-71ca8cc63caf", 
+      "relation": "cptlc:hasLink", 
+      "target": "e69e0a5d-135d-4ece-a01c-deefcfbb9701"
+    }, 
+    {
+      "source": "59748548-734f-4b54-bad0-71ca8cc63caf", 
+      "relation": "cptlc:hasLink", 
+      "target": "480622cc-1dcb-4219-92e8-150fac66bfae"
+    }, 
+    {
+      "source": "59748548-734f-4b54-bad0-71ca8cc63caf", 
+      "relation": "snet:hasBreakerConnections", 
+      "target": "1defdcaa-b1ba-45f7-a074-97745b98a417"
+    }, 
+    {
+      "source": "0f762aee-deed-4c16-9f4b-cc7501e94607", 
+      "relation": "cptlc:hasLink", 
+      "target": "adcbd54d-8f75-48ba-a99e-1d3d08e23141"
+    }, 
+    {
+      "source": "0f762aee-deed-4c16-9f4b-cc7501e94607", 
+      "relation": "snet:hasBreakerConnections", 
+      "target": "69846f54-74f1-4f2e-ba42-979a9f20109e"
+    }, 
+    {
+      "source": "0d61ae49-16d2-4caa-85ca-c0522bd9e8b2", 
+      "relation": "cptlc:hasLink", 
+      "target": "64fafacf-03fe-4877-80fb-46531ca2bdaf"
+    }, 
+    {
+      "source": "0d61ae49-16d2-4caa-85ca-c0522bd9e8b2", 
+      "relation": "snet:hasBreakerConnections", 
+      "target": "7ba56574-6d0e-456d-9452-13ee38e8ba35"
+    }, 
+    {
+      "source": "67c266a7-43d3-40f7-9f87-189a2fcd2ee7", 
+      "relation": "cptlc:hasLink", 
+      "target": "43b53562-dc7b-41a4-9ad0-debae65b0538"
+    }, 
+    {
+      "source": "67c266a7-43d3-40f7-9f87-189a2fcd2ee7", 
+      "relation": "snet:hasBreakerConnections", 
+      "target": "527be059-68d3-4da2-a1d2-cbaa4688b242"
+    }, 
+    {
+      "source": "43b53562-dc7b-41a4-9ad0-debae65b0538", 
+      "relation": "cptlc:hasLink", 
+      "target": "81a375b7-62cc-4d72-bded-d59974a7cea3"
+    }, 
+    {
+      "source": "43b53562-dc7b-41a4-9ad0-debae65b0538", 
+      "relation": "snet:hasBreakerConnections", 
+      "target": "c5ec99ad-8d32-4dd5-b6f2-c5429da32988"
+    }, 
+    {
+      "source": "81a375b7-62cc-4d72-bded-d59974a7cea3", 
+      "relation": "cptlc:hasLink", 
+      "target": "a090cc41-df51-4dd8-9007-77c8f5cb86da"
+    }, 
+    {
+      "source": "81a375b7-62cc-4d72-bded-d59974a7cea3", 
+      "relation": "snet:hasBreakerConnections", 
+      "target": "a4bdfe51-352a-45cc-af53-51b4886f617a"
+    }, 
+    {
+      "source": "a090cc41-df51-4dd8-9007-77c8f5cb86da", 
+      "relation": "cptlc:hasLink", 
+      "target": "4b30a284-ab49-4253-be6b-5e95b574f408"
+    }, 
+    {
+      "source": "a090cc41-df51-4dd8-9007-77c8f5cb86da", 
+      "relation": "snet:hasBreakerConnections", 
+      "target": "d697baa5-4c3c-4541-83f9-debf0903520b"
+    }, 
+    {
+      "source": "4b30a284-ab49-4253-be6b-5e95b574f408", 
+      "relation": "cptlc:hasLink", 
+      "target": "59748548-734f-4b54-bad0-71ca8cc63caf"
+    }, 
+    {
+      "source": "4b30a284-ab49-4253-be6b-5e95b574f408", 
+      "relation": "snet:hasBreakerConnections", 
+      "target": "1defdcaa-b1ba-45f7-a074-97745b98a417"
+    }, 
+    {
+      "source": "e69e0a5d-135d-4ece-a01c-deefcfbb9701", 
+      "relation": "cptlc:hasLink", 
+      "target": "0f762aee-deed-4c16-9f4b-cc7501e94607"
+    }, 
+    {
+      "source": "e69e0a5d-135d-4ece-a01c-deefcfbb9701", 
+      "relation": "snet:hasBreakerConnections", 
+      "target": "69846f54-74f1-4f2e-ba42-979a9f20109e"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "nodes": [
+    {
+      "rdfs:type": "snet:Switch", 
+      "cptlc:hasURI": "http://SEL_3620.network.paris.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "192.168.5.200", 
+      "cptlc:hasUUID": "41f088ba-2e6e-4b7f-93ff-2b001e640dbc"
+    }, 
+    {
+      "rdfs:type": "snet:DistanceRelay", 
+      "cptlc:hasURI": "http://SEL_421_1.network.paris.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.35.1.201", 
+      "cptlc:hasUUID": "9b9eb3ec-90a5-4fbb-ac18-80fd21c08208"
+    }, 
+    {
+      "rdfs:type": "snet:DistanceRelay", 
+      "cptlc:hasURI": "http://SEL_421_2.network.paris.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.35.1.202", 
+      "cptlc:hasUUID": "fed35c48-3b7b-4614-895d-4980a91fb3b6"
+    }, 
+    {
+      "rdfs:type": "snet:DistanceRelay", 
+      "cptlc:hasURI": "http://SEL_421_3.network.paris.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.35.1.203", 
+      "cptlc:hasUUID": "1bb97ffa-984d-4e2f-9522-a4200dd92089"
+    }, 
+    {
+      "rdfs:type": "snet:OvercurrentRelay", 
+      "cptlc:hasURI": "http://SEL_451_1.network.paris.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.35.1.101", 
+      "cptlc:hasUUID": "94aee359-b937-4a8c-b17c-2a7f775aa9cb"
+    }, 
+    {
+      "rdfs:type": "snet:OvercurrentRelay", 
+      "cptlc:hasURI": "http://SEL_451_2.network.paris.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.35.1.102", 
+      "cptlc:hasUUID": "c296d972-6246-47bb-a1eb-637cfb6211d6"
+    }, 
+    {
+      "rdfs:type": "snet:OvercurrentRelay", 
+      "cptlc:hasURI": "http://SEL_451_3.network.paris.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.35.1.103", 
+      "cptlc:hasUUID": "024c3c4b-8f3b-4c66-9293-20a52fe8eb03"
+    }, 
+    {
+      "rdfs:type": "snet:OvercurrentRelay", 
+      "cptlc:hasURI": "http://SEL_451_4.network.paris.8sub.cypsa.projects.cptl-c.org", 
+      "enet:hasIPValue": "10.35.1.104", 
+      "cptlc:hasUUID": "993826f0-be8d-4bf0-89f0-44d518650e0e"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://SEL_421_3.network.shelbyville.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "48edc523-2d7b-4233-887d-e3e722b06c4a"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://SEL_421_1.network.cypress-creek.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "2a42a23c-e908-49cd-a8b0-f5eecb4f602f"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://DistanceRelay_2.network.springfield.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "742b4f3c-9514-4986-bdd1-b228a2f65585"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://Paris$BRK$5052.yard.paris.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "2d3afb4b-dd6c-4995-a2bc-30e617c06d17"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://Paris$BRK$4950.yard.paris.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "5da6776a-d434-4b18-9e3f-b2a76018d8a5"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://Paris$BRK$4850.yard.paris.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "0ad6fa27-783c-44bf-ab03-d74f6f238767"
+    }, 
+    {
+      "rdfs:type": "cptlc:Asset", 
+      "cptlc:hasURI": "http://Paris$BRK$5051.yard.paris.8sub.cypsa.projects.cptl-c.org", 
+      "cptlc:hasUUID": "de1f6aa1-7eeb-4562-be5c-10efa8f894ee"
+    }
+  ], 
+  "links": [
+    {
+      "source": "41f088ba-2e6e-4b7f-93ff-2b001e640dbc", 
+      "relation": "cptlc:hasLink", 
+      "target": "9b9eb3ec-90a5-4fbb-ac18-80fd21c08208"
+    }, 
+    {
+      "source": "41f088ba-2e6e-4b7f-93ff-2b001e640dbc", 
+      "relation": "cptlc:hasLink", 
+      "target": "fed35c48-3b7b-4614-895d-4980a91fb3b6"
+    }, 
+    {
+      "source": "41f088ba-2e6e-4b7f-93ff-2b001e640dbc", 
+      "relation": "cptlc:hasLink", 
+      "target": "1bb97ffa-984d-4e2f-9522-a4200dd92089"
+    }, 
+    {
+      "source": "41f088ba-2e6e-4b7f-93ff-2b001e640dbc", 
+      "relation": "cptlc:hasLink", 
+      "target": "94aee359-b937-4a8c-b17c-2a7f775aa9cb"
+    }, 
+    {
+      "source": "41f088ba-2e6e-4b7f-93ff-2b001e640dbc", 
+      "relation": "cptlc:hasLink", 
+      "target": "c296d972-6246-47bb-a1eb-637cfb6211d6"
+    }, 
+    {
+      "source": "41f088ba-2e6e-4b7f-93ff-2b001e640dbc", 
+      "relation": "cptlc:hasLink", 
+      "target": "024c3c4b-8f3b-4c66-9293-20a52fe8eb03"
+    }, 
+    {
+      "source": "41f088ba-2e6e-4b7f-93ff-2b001e640dbc", 
+      "relation": "cptlc:hasLink", 
+      "target": "993826f0-be8d-4bf0-89f0-44d518650e0e"
+    }, 
+    {
+      "source": "9b9eb3ec-90a5-4fbb-ac18-80fd21c08208", 
+      "relation": "cptlc:hasLink", 
+      "target": "48edc523-2d7b-4233-887d-e3e722b06c4a"
+    }, 
+    {
+      "source": "fed35c48-3b7b-4614-895d-4980a91fb3b6", 
+      "relation": "cptlc:hasLink", 
+      "target": "2a42a23c-e908-49cd-a8b0-f5eecb4f602f"
+    }, 
+    {
+      "source": "1bb97ffa-984d-4e2f-9522-a4200dd92089", 
+      "relation": "cptlc:hasLink", 
+      "target": "742b4f3c-9514-4986-bdd1-b228a2f65585"
+    }, 
+    {
+      "source": "94aee359-b937-4a8c-b17c-2a7f775aa9cb", 
+      "relation": "snet:hasBreakerConnections", 
+      "target": "2d3afb4b-dd6c-4995-a2bc-30e617c06d17"
+    }, 
+    {
+      "source": "c296d972-6246-47bb-a1eb-637cfb6211d6", 
+      "relation": "snet:hasBreakerConnections", 
+      "target": "5da6776a-d434-4b18-9e3f-b2a76018d8a5"
+    }, 
+    {
+      "source": "024c3c4b-8f3b-4c66-9293-20a52fe8eb03", 
+      "relation": "snet:hasBreakerConnections", 
+      "target": "0ad6fa27-783c-44bf-ab03-d74f6f238767"
+    }, 
+    {
+      "source": "993826f0-be8d-4bf0-89f0-44d518650e0e", 
+      "relation": "snet:hasBreakerConnections", 
+      "target": "de1f6aa1-7eeb-4562-be5c-10efa8f894ee"
+    }
+  ]
+}
