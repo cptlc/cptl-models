@@ -38,6 +38,14 @@
     <dc:description>An ontology to describe components of a substation
     yard.</dc:description>
   </owl:Ontology>
+
+  <owl:Class rdf:about="http://cptl-c.org/power/2015/07/substation_yard/substation_yard">
+    <rdfs:subClassOf rdf:resource="http://cptl-c.org/core/2014/07/core/Asset"/>
+    <rdfs:label xml:lang="en">Substation Yard</rdfs:label>
+    <rdfs:comment>The substation yard contains all of the equipment
+    outside of the station house.</rdfs:comment>
+  </owl:Class>
+  
   
   <owl:Class rdf:about="http://cptl-c.org/power/2015/07/substation_yard/SubstationYardComponent">
     <rdfs:label xml:lang="en">Substation Yard Component</rdfs:label>

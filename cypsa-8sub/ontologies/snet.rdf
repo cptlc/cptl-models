@@ -26,6 +26,12 @@
       network.</dc:description>
   </owl:Ontology>
 
+  <owl:Class rdf:about="http://cptl-c.org/power/2015/07/substation_network/substation_network">
+    <rdfs:subClassOf rdf:resource="http://cptl-c.org/core/2014/07/core/Asset"/>
+    <rdfs:label xml:lang="en">Substation Network</rdfs:label>
+    <rdfs:comment>The network found within a substation's station house.</rdfs:comment>
+  </owl:Class>
+
   <owl:Class rdf:about="http://cptl-c.org/power/2015/07/substation_network/RTU">
     <rdfs:subClassOf rdf:resource="http://cptl-c.org/core/2014/07/core/Asset"/>
     <rdfs:label xml:lang="en">RTU</rdfs:label>
