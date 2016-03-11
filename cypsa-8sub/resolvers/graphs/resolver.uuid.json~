@@ -1,5 +1,15 @@
 {
-  "e9adc3b5-ba85-4a0d-82f3-4bec283fe086": {
+   "4adddaa9-d137-4a0b-ae20-9344e6a2336e":{
+      "rdfs:label": "Odgenville",
+      "rdfs:type": "enet:substation",
+      "graph": "graphs/sandbox.json"
+  },
+    "329e832d-1be2-4094-8722-f91d37595c10":{
+      "rdfs:label": "Control Center Network",
+      "rdfs:type": "enet:control_center",
+      "graph": "graphs/control_center_network/json/control_center.json"
+  },
+    "e9adc3b5-ba85-4a0d-82f3-4bec283fe086": {
       "rdfs:label":  "Odgenville Substation Yard",
       "rdfs:type": "syard:substation_yard",
       "graph": "graphs/substation_yard/json/odgenville.json"

@@ -1,14 +1,49 @@
 {
-  "e9adc3b5-ba85-4a0d-82f3-4bec283fe086": {
-      "rdfs:label":  "Odgenville Substation Yard",
-      "rdfs:type": "syard:substation_yard",
-      "graph": "graphs/substation_yard/json/odgenville.json"
-  }, 
-  "9eaf9f4b-4158-42e7-856d-dba88c492236": {
+    "1d446343-c84a-42ff-a8e0-1e45846b2584": {
+	"rdfs:label": "8 Substation All",
+ 	"cptla:graph_join": "graph_ref1=514d63aa-1fcf-423b-880d-168bac34354f&graph_ref2=329e832d-1be2-4094-8722-f91d37595c10&id_field=cptlc:hasUUID&join_field1=rdfs:label&join_field2=enet:hasIPAddressValue",
+	"graph": "graphs/all.json"
+    },
+
+    "control-odgenville": {
+	"rdfs:label":  "Control Center, Odgenville",
+	"graph": "graphs/control-odgenville2.json",
+	"cptla:graph_join": "graph_ref1=329e832d-1be2-4094-8722-f91d37595c10&join_field1=rdfs:label&graph_ref2=0720ba06-dc7a-46f8-9543-c2caf2676077&join_field2=enet:hasIPAddressValue&id_field=cptlc:hasUUID"
+    }, 
+    
+    "514d63aa-1fcf-423b-880d-168bac34354f": {
+	"rdfs:label":  "CyPSA 8 Substation Model",
+	"graph": "graphs/8sub.json"
+    }, 
+    
+    "329e832d-1be2-4094-8722-f91d37595c10":{
+	"rdfs:label": "Control Center Network",
+	"rdfs:type": "enet:control_center",
+	"graph": "graphs/control_center_network/json/control_center.json"
+    },
+
+    "4adddaa9-d137-4a0b-ae20-9344e6a2336e":{
+	"rdfs:label": "Odgenville",
+	"rdfs:type": "snet:substation",
+ 	"cptla:graph_join": "graph_ref1=e9adc3b5-ba85-4a0d-82f3-4bec283fe086&graph_ref2=0720ba06-dc7a-46f8-9543-c2caf2676077&id_field=cptlc:hasUUID&join_field1=cptlc:hasURI&join_field2=cptlc:hasURI",
+	"graph": "graphs/substation/json/odgenville.json"
+    },
+    
+    "e9adc3b5-ba85-4a0d-82f3-4bec283fe086": {
+	"rdfs:label":  "Odgenville Substation Yard",
+	"rdfs:type": "syard:substation_yard",
+	"graph": "graphs/substation_yard/json/odgenville.json"
+    },
+    "0720ba06-dc7a-46f8-9543-c2caf2676077": {
+	"rdfs:label":  "Odgenville Substation Network",
+	"rdfs:type": "snet:substation_network",      	
+	"graph": "graphs/substation_network/json/odgenville.json"
+    }, 
+    "9eaf9f4b-4158-42e7-856d-dba88c492236": {
       "rdfs:label":  "Capital City Substation Network",
-      "rdfs:type": "snet:substation_network",      
-      "graph": "graphs/substation_network/json/capital-city.json"
-  }, 
+	"rdfs:type": "snet:substation_network",      
+	"graph": "graphs/substation_network/json/capital-city.json"
+    }, 
   "f4835209-6ca0-402b-860c-6fe79b76cfcf": {
       "rdfs:label":  "Springfield Substation Yard",
       "rdfs:type": "syard:substation_yard",      
@@ -43,15 +78,6 @@
 	"rdfs:label":  "North Haverbrook Substation Yard",
 	"rdfs:type": "syard:substation_yard",	
 	"graph": "graphs/substation_yard/json/north-haverbrook.json"
-  }, 
-    "0720ba06-dc7a-46f8-9543-c2caf2676077": {
-	"rdfs:label":  "Odgenville Substation Network",
-	"rdfs:type": "snet:substation_network",      	
-	"graph": "graphs/substation_network/json/odgenville.json"
-  }, 
-    "514d63aa-1fcf-423b-880d-168bac34354f": {
-	"rdfs:label":  "CyPSA 8 Substation Model",
-	"graph": "graphs/8sub.json"
   }, 
     "2c21c75f-ab96-41b6-9585-f4feb21575ed": {
 	"rdfs:label":  "Cypress Creek Substation Network",

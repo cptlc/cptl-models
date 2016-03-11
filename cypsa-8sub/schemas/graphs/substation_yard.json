@@ -7,12 +7,14 @@
        "items": {
        	   "type": "object",
 	   "properties": {
-	     "rdfs:type": { "enum" : [ "cptlc:Asset", "syard:Breaker", "syard:Bus", "syard:Node", "syard:Generator", "syard:Transformer" ] },
+	     "cptlc:hasAliases": { "type": "string" },
 	     "cptlc:hasUUID": { "type": "string", "pattern": "[0-f]{8}-[0-f]{4}-[0-f]{4}-[0-f]{4}-[0-f]{12}" },
 	     "cptlc:hasURI": { "type": "string" },
-	     "enet:hasIPValue": { "type": "string", "pattern": "([0-9]{1,3}\\.){3}[0-9]{1,3}"}
+	     "enet:hasIPValue": { "type": "string", "pattern": "([0-9]{1,3}\\.){3}[0-9]{1,3}"},
+	     "rdfs:label": { "type": "string" },
+	     "rdfs:type": { "enum" : [ "cptlc:Asset", "syard:Breaker", "syard:Bus", "syard:Node", "syard:Generator", "syard:Transformer" ] }
 	   },
-	   "required": ["rdfs:type", "cptlc:hasUUID"],
+	   "required": ["cptlc:hasUUID", "rdfs:label", "rdfs:type"],
 	   "additionalProperties": false
         }
      },
@@ -24,7 +26,7 @@
 	   "properties": {
 	     "source": { "type": "string", "pattern": "[0-f]{8}-[0-f]{4}-[0-f]{4}-[0-f]{4}-[0-f]{12}" },
 	     "target": { "type": "string", "pattern": "[0-f]{8}-[0-f]{4}-[0-f]{4}-[0-f]{4}-[0-f]{12}" },
-	     "relation": { "type": "string" }
+	     "relation": { "enum" : [ "syard:hasLine" ] }
 	   },
 	   "required": ["source", "target", "relation"],
 	   "additionalProperties": false
