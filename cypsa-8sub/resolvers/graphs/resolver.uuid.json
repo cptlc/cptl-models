@@ -2,18 +2,12 @@
     "1d446343-c84a-42ff-a8e0-1e45846b2584": {
 	"rdfs:label": "8 Substation All",
  	"cptla:graph_join": "graph_ref1=514d63aa-1fcf-423b-880d-168bac34354f&graph_ref2=329e832d-1be2-4094-8722-f91d37595c10&id_field=cptlc:hasUUID&join_field1=rdfs:label&join_field2=enet:hasIPAddressValue",
-	"graph": "graphs/all.json"
+	"graph": "graphs/json/8sub.json"
     },
 
-    "control-odgenville": {
-	"rdfs:label":  "Control Center, Odgenville",
-	"graph": "graphs/control-odgenville2.json",
-	"cptla:graph_join": "graph_ref1=329e832d-1be2-4094-8722-f91d37595c10&join_field1=rdfs:label&graph_ref2=0720ba06-dc7a-46f8-9543-c2caf2676077&join_field2=enet:hasIPAddressValue&id_field=cptlc:hasUUID"
-    }, 
-    
     "514d63aa-1fcf-423b-880d-168bac34354f": {
 	"rdfs:label":  "CyPSA 8 Substation Model",
-	"graph": "graphs/8sub.json"
+	"graph": "graphs/substation/json/substations.json"
     }, 
     
     "329e832d-1be2-4094-8722-f91d37595c10":{
