@@ -7,7 +7,8 @@
 	    "graph_ref1": "substations",
 	    "join_field1": "enet:hasIPAddressValue",
 	    "graph_ref2": "control-center",
-	    "join_field2": "rdfs:label"
+	    "join_field2": "rdfs:label",
+	    "id_field": "cptlc:hasUUID"
 	}
     },
     
@@ -19,7 +20,8 @@
 	    "graph_ref1": "capital-city.yard",
 	    "join_field1": "cptlc:hasURI",
 	    "graph_ref2": "capital-city.network",
-	    "join_field2": "cptlc:hasURI"
+	    "join_field2": "cptlc:hasURI",
+	    "id_field": "cptlc:hasUUID"	    
 	}
     },
 
@@ -50,7 +52,8 @@
 	    "graph_ref1": "cypress-creek.yard",
 	    "join_field1": "cptlc:hasURI",
 	    "graph_ref2": "cypress-creek.network",
-	    "join_field2": "cptlc:hasURI"
+	    "join_field2": "cptlc:hasURI",
+	    "id_field": "cptlc:hasUUID"	    
 	}
     },
 
@@ -81,7 +84,8 @@
 	    "graph_ref1": "haverbrook.yard",
 	    "join_field1": "cptlc:hasURI",
 	    "graph_ref2": "haverbrook.network",
-	    "join_field2": "cptlc:hasURI"
+	    "join_field2": "cptlc:hasURI",
+	    "id_field": "cptlc:hasUUID"	    
 	}
     },
     
@@ -105,7 +109,8 @@
 	    "graph_ref1": "north-haverbrook.yard",
 	    "join_field1": "cptlc:hasURI",
 	    "graph_ref2": "north-haverbrook.network",
-	    "join_field2": "cptlc:hasURI"
+	    "join_field2": "cptlc:hasURI",
+	    "id_field": "cptlc:hasUUID"	    
 	}
     },
 
@@ -129,7 +134,8 @@
 	    "graph_ref1": "odgenville.yard",
 	    "join_field1": "cptlc:hasURI",
 	    "graph_ref2": "odgenville.network",
-	    "join_field2": "cptlc:hasURI"
+	    "join_field2": "cptlc:hasURI",
+	    "id_field": "cptlc:hasUUID"	    
 	}
     },
     
@@ -153,7 +159,8 @@
 	    "graph_ref1": "paris.yard",
 	    "join_field1": "cptlc:hasURI",
 	    "graph_ref2": "paris.network",
-	    "join_field2": "cptlc:hasURI"
+	    "join_field2": "cptlc:hasURI",
+	    "id_field": "cptlc:hasUUID"	    
 	}
     },
     
@@ -177,7 +184,8 @@
 	    "graph_ref1": "shelbyville.yard",
 	    "join_field1": "cptlc:hasURI",
 	    "graph_ref2": "shelbyville.network",
-	    "join_field2": "cptlc:hasURI"
+	    "join_field2": "cptlc:hasURI",
+	    "id_field": "cptlc:hasUUID"	    
 	}
     },
     
@@ -201,7 +209,8 @@
 	    "graph_ref1": "springfield.yard",
 	    "join_field1": "cptlc:hasURI",
 	    "graph_ref2": "springfield.network",
-	    "join_field2": "cptlc:hasURI"
+	    "join_field2": "cptlc:hasURI",
+	    "id_field": "cptlc:hasUUID"	    
 	}
     },
     
