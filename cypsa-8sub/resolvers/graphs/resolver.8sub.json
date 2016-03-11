@@ -1,6 +1,6 @@
 {
     "8sub": {
-	"rdfs:label":  "CyPSA 8 Substation Model",
+	"rdfs:label":  "Substations and Control Center",
 	"rdfs:type": "cptl-power:substation, cptl-power:control-center",
 	"graph": "graphs/json/8sub.json",
 	"cptl-analysis:graph_join": {
@@ -218,7 +218,7 @@
     },
 
     "substations": {
-	"rdfs:label": "All the substations merged",
+	"rdfs:label": "Substations",
 	"rdfs:type": "cptl-power:substation",
 	"graph": "graphs/substation/json/substations.json"
     }
