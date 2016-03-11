@@ -2,9 +2,9 @@
     "8sub": {
 	"rdfs:label":  "CyPSA 8 Substation Model",
 	"rdfs:type": "cptl-power:substation, cptl-power:control-center",
-	"graph": "graphs/all.json",
+	"graph": "graphs/json/8sub.json",
 	"cptl-analysis:graph_join": {
-	    "graph_ref1": "substations-all",
+	    "graph_ref1": "substations",
 	    "join_field1": "enet:hasIPAddressValue",
 	    "graph_ref2": "control-center",
 	    "join_field2": "rdfs:label"
@@ -217,10 +217,10 @@
 	"graph": "graphs/substation_network/json/springfield.json"
     },
 
-    "substations-all": {
+    "substations": {
 	"rdfs:label": "All the substations merged",
 	"rdfs:type": "cptl-power:substation",
-	"graph": "graphs/substation/json/all.json"
+	"graph": "graphs/substation/json/substations.json"
     }
     
 }
