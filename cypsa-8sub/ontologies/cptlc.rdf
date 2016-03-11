@@ -43,6 +43,16 @@
       <rdfs:comment>Used to indicate a relation between two assets.</rdfs:comment>
     </owl:ObjectProperty>
 
+    <owl:ObjectProperty rdf:about="http://cptl-c.org/core/2014/07/core/hasEthernetLink">
+      <rdfs:label xml:lang="en">Has Ethernet Link</rdfs:label>
+      <rdfs:comment>Used to indicate an ethernet connection between two assets.</rdfs:comment>
+    </owl:ObjectProperty>
+
+    <owl:ObjectProperty rdf:about="http://cptl-c.org/core/2014/07/core/hasSerialLink">
+      <rdfs:label xml:lang="en">Has Serial Link</rdfs:label>
+      <rdfs:comment>Used to indicate a serial connection between two assets.</rdfs:comment>
+    </owl:ObjectProperty>
+    
     <owl:DatatypeProperty rdf:about="http://cptl-c.org/core/2014/07/core/hasUUID">
       <rdfs:label xml:lang="en">Has UUID</rdfs:label>
       <rdfs:comment>This specification defines a Uniform Resource Name namespace for

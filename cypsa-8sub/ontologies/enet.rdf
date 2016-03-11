@@ -48,6 +48,15 @@
       trusted. (http://en.wikipedia.org/wiki/Firewall(computing))</rdfs:comment>
     </owl:Class>
 
+    <owl:Class rdf:about="http://cptl-c.org/enterprise/2015/07/enterprise_network/Gateway">
+      <rdfs:subClassOf rdf:resource="http://cptl-c.org/core/2014/07/core/Asset"/>
+      <rdfs:label xml:lang="en">Gateway</rdfs:label>
+      <rdfs:comment> the computers that control traffic between
+      company networks or the computers used by internet service
+      providers (ISPs) to connect users to the internet are gateway
+      nodes. (https://en.wikipedia.org/wiki/Gateway_(telecommunications))</rdfs:comment>
+    </owl:Class>
+
     <owl:Class rdf:about="http://cptl-c.org/enterprise/2015/07/enterprise_network/Host">
       <rdfs:subClassOf rdf:resource="http://cptl-c.org/core/2014/07/core/Asset"/>
       <rdfs:label xml:lang="en">Host</rdfs:label>
@@ -65,6 +74,14 @@
       links). (http://en.wikipedia.org/wiki/Computer_network)</rdfs:comment>
     </owl:Class>
 
+    <owl:Class rdf:about="http://cptl-c.org/enterprise/2015/07/enterprise_network/NIC">
+      <rdfs:subClassOf rdf:resource="http://cptl-c.org/core/2014/07/core/Asset"/>
+      <rdfs:label xml:lang="en">NIC</rdfs:label>
+      <rdfs:comment>A computer hardware component that connects a
+      computer to a computer network
+      (https://en.wikipedia.org/wiki/Network_interface_controller)</rdfs:comment>
+    </owl:Class>
+    
     <owl:Class rdf:about="http://cptl-c.org/enterprise/2015/07/enterprise_network/Switch">
       <rdfs:subClassOf rdf:resource="http://cptl-c.org/core/2014/07/core/Asset"/>
       <rdfs:label xml:lang="en">Switch</rdfs:label>
@@ -124,6 +141,14 @@
   </owl:ObjectProperty>
 
   <!-- Datatype Properties -->
+
+  <owl:DatatypeProperty rdf:about="http://cptl-c.org/enterprise/2015/07/enterprise_network/hasDomainNameValue">
+    <rdfs:label xml:lang="en">Domain Name Value</rdfs:label>
+    <rdfs:comment>A Domain Name value associated with a devices.</rdfs:comment>
+    <rdfs:domain rdf:resource="&cptlc;Asset"/>
+    <rdfs:range rdf:resource="&rdfs;Literal"/>
+  </owl:DatatypeProperty>
+
   <owl:DatatypeProperty rdf:about="http://cptl-c.org/enterprise/2015/07/enterprise_network/hasIPAddressValue">
     <rdfs:label xml:lang="en">IP Address Value</rdfs:label>
     <rdfs:comment>An IPv4 or IPv6 value associated with a devices.</rdfs:comment>
@@ -131,9 +156,17 @@
     <rdfs:range rdf:resource="&rdfs;Literal"/>
   </owl:DatatypeProperty>
 
-  <owl:DatatypeProperty rdf:about="http://cptl-c.org/enterprise/2015/07/enterprise_network/hasDomainNameValue">
-    <rdfs:label xml:lang="en">Domain Name Value</rdfs:label>
-    <rdfs:comment>A Domain Name value associated with a devices.</rdfs:comment>
+  <owl:DatatypeProperty rdf:about="http://cptl-c.org/enterprise/2015/07/enterprise_network/hasNetworkMask">
+    <rdfs:label xml:lang="en">Network Mask</rdfs:label>
+    <rdfs:comment>The bitmask that when applied by a bitwise AND operation to any IP address in the network,
+      recovers the network address (https://en.wikipedia.org/wiki/Subnetwork).</rdfs:comment>
+    <rdfs:domain rdf:resource="&cptlc;Asset"/>
+    <rdfs:range rdf:resource="&rdfs;Literal"/>
+  </owl:DatatypeProperty>
+
+  <owl:DatatypeProperty rdf:about="http://cptl-c.org/enterprise/2015/07/enterprise_network/hasNetworkAddress">
+    <rdfs:label xml:lang="en">Network Address</rdfs:label>
+    <rdfs:comment></rdfs:comment>
     <rdfs:domain rdf:resource="&cptlc;Asset"/>
     <rdfs:range rdf:resource="&rdfs;Literal"/>
   </owl:DatatypeProperty>
