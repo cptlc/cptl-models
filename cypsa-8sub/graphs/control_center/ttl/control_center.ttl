@@ -81,10 +81,10 @@
 	cptlc:hasUUID "0e2d7c4e-cbfb-409d-bf65-03974e441ddf" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.8cfd17d3-a3d5-4641-812f-5f35f4e3b6e0>
+<urn:cite:cptl:power.8sub.2016_08:Springfield.network.Distance_Relay_1>
 	rdfs:label "10.38.1.201" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.8cfd17d3-a3d5-4641-812f-5f35f4e3b6e0> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Springfield.network.Distance_Relay_1> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.383991d3-c629-4fa9-87a1-bed5313278a8> ;
 	cptlc:hasUUID "8cfd17d3-a3d5-4641-812f-5f35f4e3b6e0" ;
 	.
@@ -173,10 +173,10 @@
 	cptlc:hasUUID "a4a5f14c-0a27-4a9f-8755-6f30cd66b25f" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.345cba97-5f48-407c-b398-f741b43054a5>
+<urn:cite:cptl:power.8sub.2016_08:Odgenville.network.SEL_421_1>
 	rdfs:label "10.34.1.201" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.345cba97-5f48-407c-b398-f741b43054a5> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Odgenville.network.SEL_421_1> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.0f76b8ad-cdc7-478f-b511-f80514c7fa9a> ;
 	cptlc:hasUUID "345cba97-5f48-407c-b398-f741b43054a5" ;
 	.
@@ -353,10 +353,10 @@
 	cptlc:hasUUID "79736744-0ff4-4b7a-8d42-204a7d74a80e" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.47e3f6c2-96e2-4d39-aba9-7e4904062e24>
+<urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Distance_Relay_2>
 	rdfs:label "10.33.1.202" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.47e3f6c2-96e2-4d39-aba9-7e4904062e24> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Distance_Relay_2> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.dd064c78-bf8c-416b-9fdc-28cb145fe876> ;
 	cptlc:hasUUID "47e3f6c2-96e2-4d39-aba9-7e4904062e24" ;
 	.
@@ -395,10 +395,10 @@
 	cptlc:hasUUID "f38a35bb-324e-42e6-8775-0416abd5812d" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.68c6b203-225d-4462-b032-8d994e2f6453>
+<urn:cite:cptl:power.8sub.2016_08:Paris.network.SEL_421_2>
 	rdfs:label "10.35.1.202" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.68c6b203-225d-4462-b032-8d994e2f6453> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Paris.network.SEL_421_2> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.fe5c9576-4e44-4961-bede-de3d2b4395c9> ;
 	cptlc:hasUUID "68c6b203-225d-4462-b032-8d994e2f6453" ;
 	.
@@ -427,10 +427,10 @@
 	cptlc:hasUUID "e05c7229-c49c-4674-8859-826009187f99" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.590e8f50-f6d2-4eb2-9b78-1f6ad199eb96>
+<urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.Distance_Relay_1>
 	rdfs:label "10.32.1.201" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.590e8f50-f6d2-4eb2-9b78-1f6ad199eb96> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.Distance_Relay_1> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.a617aa43-6dc0-41c6-ae28-f9065075a707> ;
 	cptlc:hasUUID "590e8f50-f6d2-4eb2-9b78-1f6ad199eb96" ;
 	.
@@ -488,10 +488,10 @@
 	cptlc:hasUUID "11d05d03-c14e-426c-9626-d23e3f2fc9f2" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.7fe0bce7-5f54-41df-a6c2-a81fe003c516>
+<urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_451_3>
 	rdfs:label "10.31.1.103" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.7fe0bce7-5f54-41df-a6c2-a81fe003c516> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_451_3> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.08012000-4c0a-4a35-b752-08e0181348e9> ;
 	cptlc:hasUUID "7fe0bce7-5f54-41df-a6c2-a81fe003c516" ;
 	.
@@ -569,10 +569,10 @@
 	cptlc:hasUUID "d22bd5de-217b-4632-8e61-3e3dfac38d34" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.e224c3c8-d3e0-466a-bcd6-823fd5c55acb>
+<urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_421_5>
 	rdfs:label "10.31.1.205" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.e224c3c8-d3e0-466a-bcd6-823fd5c55acb> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_421_5> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.235623c1-6587-4c58-85fd-05bcd6b3725e> ;
 	cptlc:hasUUID "e224c3c8-d3e0-466a-bcd6-823fd5c55acb" ;
 	.
@@ -654,18 +654,18 @@
 	cptlc:hasUUID "12fb1c38-7338-461f-9018-16084f233878" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.dbec8fc8-444e-4a7c-a9cf-0074289918ee>
+<urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_451_2>
 	rdfs:label "10.31.1.102" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.dbec8fc8-444e-4a7c-a9cf-0074289918ee> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_451_2> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.8ddda7a2-336b-4880-9d8c-23ad7d9e90be> ;
 	cptlc:hasUUID "dbec8fc8-444e-4a7c-a9cf-0074289918ee" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.dc75089c-68f0-429b-a6db-55fa6a81cee5>
+<urn:cite:cptl:power.8sub.2016_08:Shelbyville.network.SEL_451_5>
 	rdfs:label "10.36.1.105" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.dc75089c-68f0-429b-a6db-55fa6a81cee5> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Shelbyville.network.SEL_451_5> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.ffaabb37-3019-426b-b5c8-78e628745efb> ;
 	cptlc:hasUUID "dc75089c-68f0-429b-a6db-55fa6a81cee5" ;
 	.
@@ -752,10 +752,10 @@
 	cptlc:hasUUID "b769c43d-00f7-44d9-b95f-4be7cfbc1a85" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.8e22e3c2-2450-445f-a514-9e9c8f1c66d8>
+<urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Overcurrent_Relay_3>
 	rdfs:label "10.33.1.103" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.8e22e3c2-2450-445f-a514-9e9c8f1c66d8> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Overcurrent_Relay_3> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.861a4706-6a88-4944-bbb3-097f9c0d8306> ;
 	cptlc:hasUUID "8e22e3c2-2450-445f-a514-9e9c8f1c66d8" ;
 	.
@@ -767,10 +767,10 @@
 	cptlc:hasUUID "4179de3e-d5a9-4502-b65d-06274b456134" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.b7ff6e5d-a4b0-400a-8a72-cbdfb1c019e0>
+<urn:cite:cptl:power.8sub.2016_08:Shelbyville.network.SEL_421_3>
 	rdfs:label "10.36.1.203" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.b7ff6e5d-a4b0-400a-8a72-cbdfb1c019e0> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Shelbyville.network.SEL_421_3> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.cd475306-25bf-4fdb-b22a-14870d711102> ;
 	cptlc:hasUUID "b7ff6e5d-a4b0-400a-8a72-cbdfb1c019e0" ;
 	.
@@ -798,26 +798,26 @@
 	cptlc:hasUUID "ed7b9658-26de-47b0-82a3-0243365ad565" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.8064931a-022e-45b6-abd4-8dd299a13fdb>
+<urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Overcurrent_Relay_4>
 	rdfs:label "10.33.1.104" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.8064931a-022e-45b6-abd4-8dd299a13fdb> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Overcurrent_Relay_4> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.a8f330b3-4355-4de3-b12a-bd916914c185> ;
 	cptlc:hasUUID "8064931a-022e-45b6-abd4-8dd299a13fdb" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.d17b23d9-343a-49a8-a6a2-fb262290ef16>
+<urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_421_2>
 	rdfs:label "10.31.1.202" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.d17b23d9-343a-49a8-a6a2-fb262290ef16> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_421_2> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.336cd687-1b6c-44d0-8bd1-0b8424149b2a> ;
 	cptlc:hasUUID "d17b23d9-343a-49a8-a6a2-fb262290ef16" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.e1f6ba7c-9aa8-4f76-a67c-24a63ce33a82>
+<urn:cite:cptl:power.8sub.2016_08:Odgenville.network.SEL_421_2>
 	rdfs:label "10.34.1.202" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.e1f6ba7c-9aa8-4f76-a67c-24a63ce33a82> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Odgenville.network.SEL_421_2> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.9447c4c6-a48c-40a6-8935-c5b2d6d1f443> ;
 	cptlc:hasUUID "e1f6ba7c-9aa8-4f76-a67c-24a63ce33a82" ;
 	.
@@ -896,42 +896,42 @@
 	cptlc:hasUUID "1e36e626-d499-494e-aba6-3cea95fcc114" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.ace08a35-c7e0-43bc-8310-d480a6a9e991>
+<urn:cite:cptl:power.8sub.2016_08:Odgenville.network.SEL_451_2>
 	rdfs:label "10.34.1.102" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.ace08a35-c7e0-43bc-8310-d480a6a9e991> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Odgenville.network.SEL_451_2> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.1141f6d2-e95b-4160-bfba-270c0e4f513d> ;
 	cptlc:hasUUID "ace08a35-c7e0-43bc-8310-d480a6a9e991" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.73fc3bd2-505e-4447-95f8-bcb14cf1288c>
+<urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_451_4>
 	rdfs:label "10.31.1.104" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.73fc3bd2-505e-4447-95f8-bcb14cf1288c> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_451_4> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.1c99c8c6-ecca-45dd-8ad0-7e7d16702359> ;
 	cptlc:hasUUID "73fc3bd2-505e-4447-95f8-bcb14cf1288c" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.96be6cc3-d372-4838-98fc-4021389409bb>
+<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.11d05d03-c14e-426c-9626-d23e3f2fc9f2>
 	rdfs:label "10.37.1.201" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.96be6cc3-d372-4838-98fc-4021389409bb> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.11d05d03-c14e-426c-9626-d23e3f2fc9f2> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.11d05d03-c14e-426c-9626-d23e3f2fc9f2> ;
 	cptlc:hasUUID "96be6cc3-d372-4838-98fc-4021389409bb" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.62a78fdc-841b-4b5b-b0f7-bf55fa58c21c>
+<urn:cite:cptl:power.8sub.2016_08:Paris.network.SEL_451_3>
 	rdfs:label "10.35.1.103" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.62a78fdc-841b-4b5b-b0f7-bf55fa58c21c> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Paris.network.SEL_451_3> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.bdb6ea7b-44b2-430d-bf4a-249a32e15a08> ;
 	cptlc:hasUUID "62a78fdc-841b-4b5b-b0f7-bf55fa58c21c" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.11e8c0b2-c930-44d3-b642-97e0dac6dc0b>
+<urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Overcurrent_Relay_7>
 	rdfs:label "10.33.1.107" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.11e8c0b2-c930-44d3-b642-97e0dac6dc0b> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Overcurrent_Relay_7> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.2d0e0823-7551-4529-acfd-ae5237550de1> ;
 	cptlc:hasUUID "11e8c0b2-c930-44d3-b642-97e0dac6dc0b" ;
 	.
@@ -988,18 +988,18 @@
 	cptlc:hasUUID "54123611-5cd4-4896-b76f-2109a0d48ee7" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.6272f8c9-5685-46cb-8d77-8a46f265a7f8>
+<urn:cite:cptl:power.8sub.2016_08:Springfield.network.Overcurrent_Relay_1>
 	rdfs:label "10.38.1.101" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.6272f8c9-5685-46cb-8d77-8a46f265a7f8> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Springfield.network.Overcurrent_Relay_1> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.e6c5edc9-51ff-4f90-9fca-3703b4755aed> ;
 	cptlc:hasUUID "6272f8c9-5685-46cb-8d77-8a46f265a7f8" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.56b6d71f-6798-4399-8dff-6726b090b3a3>
+<urn:cite:cptl:power.8sub.2016_08:Paris.network.SEL_421_3>
 	rdfs:label "10.35.1.203" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.56b6d71f-6798-4399-8dff-6726b090b3a3> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Paris.network.SEL_421_3> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.a619422b-58f0-42bc-89a9-2e2fddce2965> ;
 	cptlc:hasUUID "56b6d71f-6798-4399-8dff-6726b090b3a3" ;
 	.
@@ -1090,26 +1090,26 @@
 	cptlc:hasUUID "e2ca11c5-5718-4a5d-87c6-aaa050f4754a" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.7ebf4bc8-8811-4a22-927c-0c779faf1008>
+<urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_421_3>
 	rdfs:label "10.31.1.203" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.7ebf4bc8-8811-4a22-927c-0c779faf1008> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_421_3> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.9c274459-4bd0-4046-96d6-2aa047ee9892> ;
 	cptlc:hasUUID "7ebf4bc8-8811-4a22-927c-0c779faf1008" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.74b36b3c-ff0e-4a7d-835d-631b565cd2d0>
+<urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_421_4>
 	rdfs:label "10.31.1.204" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.74b36b3c-ff0e-4a7d-835d-631b565cd2d0> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_421_4> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.9ef6340c-c6cb-4f59-ac77-2253a90a3efc> ;
 	cptlc:hasUUID "74b36b3c-ff0e-4a7d-835d-631b565cd2d0" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.788620d5-b9cc-471e-8c14-5dd289f88cd6>
+<urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Overcurrent_Relay_2>
 	rdfs:label "10.33.1.102" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.788620d5-b9cc-471e-8c14-5dd289f88cd6> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Overcurrent_Relay_2> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.d7f08bad-cc05-4b24-87c5-5b11927bb9f9> ;
 	cptlc:hasUUID "788620d5-b9cc-471e-8c14-5dd289f88cd6" ;
 	.
@@ -1254,26 +1254,26 @@
 	cptlc:hasUUID "39857355-81f2-457a-ae9a-73252d85e9f9" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.8a07c09a-1b5e-4586-a49a-ac0bc6d3f34a>
+<urn:cite:cptl:power.8sub.2016_08:Shelbyville.network.SEL_451_1>
 	rdfs:label "10.36.1.101" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.8a07c09a-1b5e-4586-a49a-ac0bc6d3f34a> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Shelbyville.network.SEL_451_1> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.dee6d85e-2ee3-4552-a1e9-dab475869680> ;
 	cptlc:hasUUID "8a07c09a-1b5e-4586-a49a-ac0bc6d3f34a" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.a2554bdd-bf3f-4a8e-bf53-d877a3842e91>
+<urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_451_5>
 	rdfs:label "10.31.1.105" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.a2554bdd-bf3f-4a8e-bf53-d877a3842e91> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_451_5> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.e3f92938-6cd3-42e6-9ff0-50af24d090ec> ;
 	cptlc:hasUUID "a2554bdd-bf3f-4a8e-bf53-d877a3842e91" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.47a40a5a-1364-4b3a-87e6-3fb3d8a2f03e>
+<urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Overcurrent_Relay_5>
 	rdfs:label "10.33.1.105" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.47a40a5a-1364-4b3a-87e6-3fb3d8a2f03e> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Overcurrent_Relay_5> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.1e36e626-d499-494e-aba6-3cea95fcc114> ;
 	cptlc:hasUUID "47a40a5a-1364-4b3a-87e6-3fb3d8a2f03e" ;
 	.
@@ -1302,10 +1302,10 @@
 	cptlc:hasUUID "d19ad4e5-6227-43f5-8b04-ed02ca4784fa" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.f20d44ec-1d6d-4e25-a5de-df86fdb926f9>
+<urn:cite:cptl:power.8sub.2016_08:Paris.network.SEL_421_1>
 	rdfs:label "10.35.1.201" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.f20d44ec-1d6d-4e25-a5de-df86fdb926f9> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Paris.network.SEL_421_1> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.ac7a2473-b60b-4cd0-a3ee-56ffca75c454> ;
 	cptlc:hasUUID "f20d44ec-1d6d-4e25-a5de-df86fdb926f9" ;
 	.
@@ -1336,10 +1336,10 @@
 	cptlc:hasUUID "33337c89-2a8e-46cd-8acd-49a534acbe3f" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.ff466446-c830-4ec5-8ea9-f006ce43954b>
+<urn:cite:cptl:power.8sub.2016_08:Springfield.network.Distance_Relay_3>
 	rdfs:label "10.38.1.203" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.ff466446-c830-4ec5-8ea9-f006ce43954b> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Springfield.network.Distance_Relay_3> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.ccf8abcd-24e8-410c-9d36-aeb10c06e6d6> ;
 	cptlc:hasUUID "ff466446-c830-4ec5-8ea9-f006ce43954b" ;
 	.
@@ -1406,10 +1406,10 @@
 	cptlc:hasUUID "a40a1523-14c9-4439-9f31-ea38dd1600f3" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.274a2d0a-5cfb-43f8-9dd2-e5b15d8dd74c>
+<urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_421_1>
 	rdfs:label "10.31.1.201" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.274a2d0a-5cfb-43f8-9dd2-e5b15d8dd74c> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_421_1> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.4bec3d7b-72a6-4e64-ab72-1c43090f7b9f> ;
 	cptlc:hasUUID "274a2d0a-5cfb-43f8-9dd2-e5b15d8dd74c" ;
 	.
@@ -1486,10 +1486,10 @@
 	cptlc:hasUUID "946f7865-cf3a-4e3c-abcd-8df82e649da3" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.ee6dd930-ea25-4ab0-8237-eac37cbd5331>
+<urn:cite:cptl:power.8sub.2016_08:Shelbyville.network.SEL_421_1>
 	rdfs:label "10.36.1.201" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.ee6dd930-ea25-4ab0-8237-eac37cbd5331> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Shelbyville.network.SEL_421_1> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.f180ea33-d63b-47a2-bdef-855486b34529> ;
 	cptlc:hasUUID "ee6dd930-ea25-4ab0-8237-eac37cbd5331" ;
 	.
@@ -1502,10 +1502,10 @@
 	cptlc:hasUUID "d7e017c7-824a-41ed-9f16-8eb7ef4362a2" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.f3fcf5e7-3854-4616-bde4-099f2acdc2d7>
+<urn:cite:cptl:power.8sub.2016_08:Paris.network.SEL_451_4>
 	rdfs:label "10.35.1.104" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.f3fcf5e7-3854-4616-bde4-099f2acdc2d7> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Paris.network.SEL_451_4> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.1020b8a5-705b-45a9-a91e-4a1d2bfa0b1e> ;
 	cptlc:hasUUID "f3fcf5e7-3854-4616-bde4-099f2acdc2d7" ;
 	.
@@ -1556,10 +1556,10 @@
 	cptlc:hasUUID "01e3620e-f5bf-4e0d-bf32-032a27d833f7" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.95ea1f2e-70a5-4dbe-8fd6-156fe50288ea>
+<urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Distance_Relay_3>
 	rdfs:label "10.33.1.203" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.95ea1f2e-70a5-4dbe-8fd6-156fe50288ea> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Distance_Relay_3> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.d91f8c6f-9ff8-4817-9e7c-b772e09e9c5d> ;
 	cptlc:hasUUID "95ea1f2e-70a5-4dbe-8fd6-156fe50288ea" ;
 	.
@@ -1579,18 +1579,18 @@
 	cptlc:hasUUID "71169652-fda0-4b4b-aef2-5a86219d796f" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.c1481a81-b81b-4e3f-ac96-221a7c3b3407>
+<urn:cite:cptl:power.8sub.2016_08:Paris.network.SEL_451_1>
 	rdfs:label "10.35.1.101" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.c1481a81-b81b-4e3f-ac96-221a7c3b3407> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Paris.network.SEL_451_1> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.aef4b0d0-b07f-420e-ba88-635add6c31e0> ;
 	cptlc:hasUUID "c1481a81-b81b-4e3f-ac96-221a7c3b3407" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.a1b1290d-a5bd-4dee-a3be-1176040157fd>
+<urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Overcurrent_Relay_6>
 	rdfs:label "10.33.1.106" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.a1b1290d-a5bd-4dee-a3be-1176040157fd> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Overcurrent_Relay_6> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.4a38c47e-59b4-4dcc-a1f6-a24484803038> ;
 	cptlc:hasUUID "a1b1290d-a5bd-4dee-a3be-1176040157fd" ;
 	.
@@ -1686,10 +1686,10 @@
 	cptlc:hasUUID "b8cb3111-ce20-48be-a4c8-04566a954857" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.31888556-090b-48eb-8f8e-0c5208345ae9>
+<urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Overcurrent_Relay_1>
 	rdfs:label "10.33.1.101" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.31888556-090b-48eb-8f8e-0c5208345ae9> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Overcurrent_Relay_1> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.3c2e68e3-c319-4ba3-b046-eba9587bc571> ;
 	cptlc:hasUUID "31888556-090b-48eb-8f8e-0c5208345ae9" ;
 	.
@@ -1702,10 +1702,10 @@
 	cptlc:hasUUID "08012000-4c0a-4a35-b752-08e0181348e9" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.7c177508-356e-4c26-ba2f-3f46bf7172a3>
+<urn:cite:cptl:power.8sub.2016_08:Springfield.network.Distance_Relay_2>
 	rdfs:label "10.38.1.202" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.7c177508-356e-4c26-ba2f-3f46bf7172a3> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Springfield.network.Distance_Relay_2> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.f869e4aa-34e5-4c55-8bad-e3937e021794> ;
 	cptlc:hasUUID "7c177508-356e-4c26-ba2f-3f46bf7172a3" ;
 	.
@@ -1772,10 +1772,10 @@
 	cptlc:hasUUID "f180ea33-d63b-47a2-bdef-855486b34529" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.2355c2c9-12af-414f-8c6f-0ba72339db88>
+<urn:cite:cptl:power.8sub.2016_08:Shelbyville.network.SEL_451_4>
 	rdfs:label "10.36.1.104" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.2355c2c9-12af-414f-8c6f-0ba72339db88> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Shelbyville.network.SEL_451_4> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.971121eb-f1df-4b43-a64f-115c39be152d> ;
 	cptlc:hasUUID "2355c2c9-12af-414f-8c6f-0ba72339db88" ;
 	.
@@ -1788,10 +1788,10 @@
 	cptlc:hasUUID "8ddda7a2-336b-4880-9d8c-23ad7d9e90be" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.2252e4a9-3f57-4284-ba71-c45d7f1b9bc6>
+<urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Distance_Relay_1>
 	rdfs:label "10.33.1.201" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.2252e4a9-3f57-4284-ba71-c45d7f1b9bc6> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Distance_Relay_1> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.c77c738d-5cf5-4d72-bdbb-119fa194ef48> ;
 	cptlc:hasUUID "2252e4a9-3f57-4284-ba71-c45d7f1b9bc6" ;
 	.
@@ -1810,18 +1810,18 @@
 	cptlc:hasUUID "bbd4943c-a364-474c-a1e2-1848343ffeac" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.52f01957-b545-4735-be9a-d119e5b99eb4>
+<urn:cite:cptl:power.8sub.2016_08:Springfield.network.Overcurrent_Relay_3>
 	rdfs:label "10.38.1.103" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.52f01957-b545-4735-be9a-d119e5b99eb4> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Springfield.network.Overcurrent_Relay_3> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.fb370e27-cdd2-4cac-921f-aa8056f8b479> ;
 	cptlc:hasUUID "52f01957-b545-4735-be9a-d119e5b99eb4" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.f5f2c3c9-de1d-4892-9502-65e1e9d0aa92>
+<urn:cite:cptl:power.8sub.2016_08:Odgenville.network.SEL_451_1>
 	rdfs:label "10.34.1.101" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.f5f2c3c9-de1d-4892-9502-65e1e9d0aa92> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Odgenville.network.SEL_451_1> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.39857355-81f2-457a-ae9a-73252d85e9f9> ;
 	cptlc:hasUUID "f5f2c3c9-de1d-4892-9502-65e1e9d0aa92" ;
 	.
@@ -1873,10 +1873,10 @@
 	cptlc:hasUUID "c732757b-871d-4c9c-abbb-24b04a71447a" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.b1b3358c-66d1-4a4f-8a33-785b75d3b09f>
+<urn:cite:cptl:power.8sub.2016_08:Springfield.network.Overcurrent_Relay_5>
 	rdfs:label "10.38.1.105" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.b1b3358c-66d1-4a4f-8a33-785b75d3b09f> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Springfield.network.Overcurrent_Relay_5> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.d1eb703a-7b53-4a57-99fd-75613d581a89> ;
 	cptlc:hasUUID "b1b3358c-66d1-4a4f-8a33-785b75d3b09f" ;
 	.
@@ -1911,10 +1911,10 @@
 	cptlc:hasUUID "54c88cd1-42bf-4665-b8b4-aaac75408f99" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.aef8e6ec-fce2-4d81-9aab-eefd7b68f03d>
+<urn:cite:cptl:power.8sub.2016_08:Shelbyville.network.SEL_451_3>
 	rdfs:label "10.36.1.103" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.aef8e6ec-fce2-4d81-9aab-eefd7b68f03d> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Shelbyville.network.SEL_451_3> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.3f2fa63a-b98f-4b51-9f73-0da03faf9028> ;
 	cptlc:hasUUID "aef8e6ec-fce2-4d81-9aab-eefd7b68f03d" ;
 	.
@@ -1950,10 +1950,10 @@
 	cptlc:hasUUID "c77c738d-5cf5-4d72-bdbb-119fa194ef48" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.b0b367de-a895-46b4-be22-e06701feee70>
+<urn:cite:cptl:power.8sub.2016_08:Shelbyville.network.SEL_421_2>
 	rdfs:label "10.36.1.202" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.b0b367de-a895-46b4-be22-e06701feee70> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Shelbyville.network.SEL_421_2> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.6285f875-08c3-4ba1-8756-58253cfa87b6> ;
 	cptlc:hasUUID "b0b367de-a895-46b4-be22-e06701feee70" ;
 	.
@@ -1974,10 +1974,10 @@
 	cptlc:hasUUID "ffaabb37-3019-426b-b5c8-78e628745efb" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.8ce666fb-a466-475f-8e16-5dcfb55c49c9>
+<urn:cite:cptl:power.8sub.2016_08:Paris.network.SEL_451_2>
 	rdfs:label "10.35.1.102" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.8ce666fb-a466-475f-8e16-5dcfb55c49c9> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Paris.network.SEL_451_2> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.ac81b0ef-2d14-4b70-aee7-c1da2709a1c3> ;
 	cptlc:hasUUID "8ce666fb-a466-475f-8e16-5dcfb55c49c9" ;
 	.
@@ -2005,34 +2005,34 @@
 	cptlc:hasUUID "48bfa380-3e5b-4525-83b2-b43c3ed46d4e" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.afafc3ed-6261-4740-b189-b0faf7c31534>
+<urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_421_7>
 	rdfs:label "10.31.1.207" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.afafc3ed-6261-4740-b189-b0faf7c31534> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_421_7> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.cc0190e0-fc40-48a2-a7ad-9fa4a951ebe1> ;
 	cptlc:hasUUID "afafc3ed-6261-4740-b189-b0faf7c31534" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.71325a8f-3bb3-4d66-bcae-1c72141c75bc>
+<urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_451_1>
 	rdfs:label "10.31.1.101" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.71325a8f-3bb3-4d66-bcae-1c72141c75bc> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_451_1> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.032953d2-fd9d-457c-a7af-3248132e6e72> ;
 	cptlc:hasUUID "71325a8f-3bb3-4d66-bcae-1c72141c75bc" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.1d0ebcc8-0948-4494-a225-cb6a07fc99e0>
+<urn:cite:cptl:power.8sub.2016_08:Odgenville.network.SEL_451_3>
 	rdfs:label "10.34.1.103" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.1d0ebcc8-0948-4494-a225-cb6a07fc99e0> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Odgenville.network.SEL_451_3> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.12fb1c38-7338-461f-9018-16084f233878> ;
 	cptlc:hasUUID "1d0ebcc8-0948-4494-a225-cb6a07fc99e0" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.c3e2b3e6-8ed1-491b-a496-cca2b39c269e>
+<urn:cite:cptl:power.8sub.2016_08:Shelbyville.network.SEL_451_2>
 	rdfs:label "10.36.1.102" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.c3e2b3e6-8ed1-491b-a496-cca2b39c269e> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Shelbyville.network.SEL_451_2> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.865c6a52-99f9-46da-94c6-7bc3c25069f0> ;
 	cptlc:hasUUID "c3e2b3e6-8ed1-491b-a496-cca2b39c269e" ;
 	.
@@ -2060,10 +2060,10 @@
 	cptlc:hasUUID "ab1b2040-c035-4582-b970-0a94ae46087e" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.395abeb2-32c5-4bd5-a496-fea414ce2778>
+<urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_421_6>
 	rdfs:label "10.31.1.206" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.395abeb2-32c5-4bd5-a496-fea414ce2778> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_421_6> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.54c88cd1-42bf-4665-b8b4-aaac75408f99> ;
 	cptlc:hasUUID "395abeb2-32c5-4bd5-a496-fea414ce2778" ;
 	.
@@ -2076,18 +2076,18 @@
 	cptlc:hasUUID "a1f07e46-6239-42c6-9c50-5956e0776e86" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.ad4aefe3-1baa-4080-8bab-5632ab070f52>
+<urn:cite:cptl:power.8sub.2016_08:Springfield.network.Overcurrent_Relay_2>
 	rdfs:label "10.38.1.102" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.ad4aefe3-1baa-4080-8bab-5632ab070f52> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Springfield.network.Overcurrent_Relay_2> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.ae2493cb-a684-4b02-926b-a14962811dc2> ;
 	cptlc:hasUUID "ad4aefe3-1baa-4080-8bab-5632ab070f52" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.3ab902e8-01fd-4227-a3f2-19afa6f2bdfb>
+<urn:cite:cptl:power.8sub.2016_08:Springfield.network.Overcurrent_Relay_4>
 	rdfs:label "10.38.1.104" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.3ab902e8-01fd-4227-a3f2-19afa6f2bdfb> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Springfield.network.Overcurrent_Relay_4> ;
 	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.7d1fba41-4a05-4336-b34b-6769ee436f0b> ;
 	cptlc:hasUUID "3ab902e8-01fd-4227-a3f2-19afa6f2bdfb" ;
 	.
