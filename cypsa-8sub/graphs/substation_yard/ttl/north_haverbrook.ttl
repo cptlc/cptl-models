@@ -60,7 +60,7 @@
 	rdfs:label "North Haverbrook ND 14" ;
 	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:North_Haverbrook.yard.ND_14> ;
-	syard:hasLine <urn:cite:cptl:power.8sub.2016_08:Shelbyville.network.ND_26> ;
+	syard:hasLine <urn:cite:cptl:power.8sub.2016_08:Shelbyville.yard.ND_26> ;
 	cptlc:hasUUID "e6b1a681-857c-4471-bab1-7a48920a87b1" ;
 	.
 
@@ -107,10 +107,10 @@
 	cptlc:hasUUID "36ea6f73-9e50-415c-8d38-76e89b0e6f43" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.ND_21>
+<urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.yard.ND_21>
 	rdfs:label "Cypress Creek ND 21" ;
 	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.ND_21> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.yard.ND_21> ;
 	cptlc:hasUUID "2aa9b34c-2114-4f62-9ad1-fc0fa1856c2a" ;
 	.
 
@@ -126,7 +126,7 @@
 	rdfs:label "North Haverbrook ND 11" ;
 	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:North_Haverbrook.yard.ND_11> ;
-	syard:hasLine <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.ND_21> ;
+	syard:hasLine <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.yard.ND_21> ;
 	cptlc:hasUUID "2f34d163-ecdc-47b5-b148-e685dd4eca8d" ;
 	.
 
@@ -145,10 +145,10 @@
 	cptlc:hasUUID "174450cb-4ae2-42a5-837f-e0bcf93ba1f2" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Shelbyville.network.ND_26>
+<urn:cite:cptl:power.8sub.2016_08:Shelbyville.yard.ND_26>
 	rdfs:label "Shelbyville ND 26" ;
 	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Shelbyville.network.ND_26> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Shelbyville.yard.ND_26> ;
 	cptlc:hasUUID "ed93ca10-cc53-41c1-93c0-d59c9a71535f" ;
 	.
 
@@ -165,14 +165,14 @@
 	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:North_Haverbrook.yard.ND_7> ;
 	syard:hasLine <urn:cite:cptl:power.8sub.2016_08:North_Haverbrook.yard.BRK_78> ;
-	syard:hasLine <urn:cite:cptl:power.8sub.2016_08:Odgenville.network.ND_3> ;
+	syard:hasLine <urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_3> ;
 	cptlc:hasUUID "ac293529-9659-4e4b-b5b9-b9647b02705d" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Odgenville.network.ND_3>
+<urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_3>
 	rdfs:label "Odgenville ND 3" ;
 	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Odgenville.network.ND_3> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_3> ;
 	cptlc:hasUUID "638b4fd5-83e0-46ee-950d-acb4bbdbac49" ;
 	.
 

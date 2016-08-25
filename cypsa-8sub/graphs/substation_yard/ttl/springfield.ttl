@@ -38,10 +38,10 @@
 	cptlc:hasUUID "3ca757dc-7c1e-4aa3-ba6c-57c5e8e6a6fa" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.ND_37>
+<urn:cite:cptl:power.8sub.2016_08:Haverbrook.yard.ND_37>
 	rdfs:label "Haverbrook ND 37" ;
 	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.ND_37> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.yard.ND_37> ;
 	cptlc:hasUUID "aec929cb-d172-415a-bfa6-dfe5ffc5520b" ;
 	.
 
@@ -49,7 +49,7 @@
 	rdfs:label "Springfield ND 39" ;
 	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Springfield.yard.ND_39> ;
-	syard:hasLine <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.ND_37> ;
+	syard:hasLine <urn:cite:cptl:power.8sub.2016_08:Haverbrook.yard.ND_37> ;
 	cptlc:hasUUID "fab8510a-d64e-481b-aeba-274db23ae766" ;
 	.
 
@@ -57,14 +57,14 @@
 	rdfs:label "Springfield ND 40" ;
 	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Springfield.yard.ND_40> ;
-	syard:hasLine <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.ND_38> ;
+	syard:hasLine <urn:cite:cptl:power.8sub.2016_08:Haverbrook.yard.ND_38> ;
 	cptlc:hasUUID "1977bb6d-cd4f-45ed-b4be-945822773cff" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Paris.network.ND_51>
+<urn:cite:cptl:power.8sub.2016_08:Paris.yard.ND_51>
 	rdfs:label "Paris ND 51" ;
 	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Paris.network.ND_51> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Paris.yard.ND_51> ;
 	cptlc:hasUUID "46d6a8f2-7b44-4f7b-b3f7-446cca40a69e" ;
 	.
 
@@ -84,10 +84,10 @@
 	cptlc:hasUUID "a3a7b489-8c9c-47a7-8e5a-617786f166aa" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.ND_38>
+<urn:cite:cptl:power.8sub.2016_08:Haverbrook.yard.ND_38>
 	rdfs:label "Haverbrook ND 38" ;
 	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.ND_38> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.yard.ND_38> ;
 	cptlc:hasUUID "33df492c-261e-4814-81bf-54f6f1d98bcb" ;
 	.
 
@@ -106,7 +106,7 @@
 	rdfs:label "Springfield ND 42" ;
 	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Springfield.yard.ND_42> ;
-	syard:hasLine <urn:cite:cptl:power.8sub.2016_08:Paris.network.ND_51> ;
+	syard:hasLine <urn:cite:cptl:power.8sub.2016_08:Paris.yard.ND_51> ;
 	cptlc:hasUUID "2cdd062a-b1fd-4e00-9d9c-3f31ab506715" ;
 	.
 

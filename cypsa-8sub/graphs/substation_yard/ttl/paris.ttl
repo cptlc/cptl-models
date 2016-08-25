@@ -31,10 +31,10 @@
 	cptlc:hasUUID "f30b6853-85cc-44b0-a2fa-cb0f2e2e6724" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Springfield.network.ND_42>
+<urn:cite:cptl:power.8sub.2016_08:Springfield.yard.ND_42>
 	rdfs:label "Springfield ND 42" ;
 	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Springfield.network.ND_42> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Springfield.yard.ND_42> ;
 	cptlc:hasUUID "35db8ebd-731a-4217-bf46-8e37a4d8b6db" ;
 	.
 
@@ -50,7 +50,7 @@
 	rdfs:label "Paris ND 51" ;
 	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Paris.yard.ND_51> ;
-	syard:hasLine <urn:cite:cptl:power.8sub.2016_08:Springfield.network.ND_42> ;
+	syard:hasLine <urn:cite:cptl:power.8sub.2016_08:Springfield.yard.ND_42> ;
 	cptlc:hasUUID "8bc60736-ee1c-42b3-a894-8113340a3262" ;
 	.
 
@@ -89,7 +89,7 @@
 	rdfs:label "Paris ND 48" ;
 	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Paris.yard.ND_48> ;
-	syard:hasLine <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.ND_24> ;
+	syard:hasLine <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.yard.ND_24> ;
 	cptlc:hasUUID "75b6daa1-73b4-4198-bcf9-52490de851b1" ;
 	.
 
@@ -103,10 +103,10 @@
 	cptlc:hasUUID "f4a23a49-2c39-4ff2-9f1f-11c10ad93f0e" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.ND_24>
+<urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.yard.ND_24>
 	rdfs:label "Cypress Creek ND 24" ;
 	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.ND_24> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.yard.ND_24> ;
 	cptlc:hasUUID "1fdf2552-3cb4-4901-b42b-56f9d57f4e48" ;
 	.
 
