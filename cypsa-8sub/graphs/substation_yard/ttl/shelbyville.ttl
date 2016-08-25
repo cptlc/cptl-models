@@ -72,7 +72,7 @@
 
 <urn:cite:cptl:power.8sub.2016_08:North_Haverbrook.yard.ND_14>
 	rdfs:label "North Haverbrook ND 14" ;
-	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
+	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:North_Haverbrook.yard.ND_14> ;
 	cptlc:hasUUID "452c1b6d-45a9-47a8-85d8-a0148673c16b" ;
 	.
@@ -105,7 +105,7 @@
 
 <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.yard.ND_22>
 	rdfs:label "Cypress Creek ND 22" ;
-	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
+	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.yard.ND_22> ;
 	cptlc:hasUUID "d35c96db-2afa-49fe-8bbd-fa31aafd3a31" ;
 	.

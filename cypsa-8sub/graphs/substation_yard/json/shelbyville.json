@@ -83,12 +83,12 @@
     }, 
     {
       "rdfs:label": "North Haverbrook ND 14", 
-      "rdf:type": "cptlc:Asset", 
+      "rdf:type": "syard:Node", 
       "cptlc:hasUUID": "452c1b6d-45a9-47a8-85d8-a0148673c16b"
     }, 
     {
       "rdfs:label": "Cypress Creek ND 22", 
-      "rdf:type": "cptlc:Asset", 
+      "rdf:type": "syard:Node", 
       "cptlc:hasUUID": "d35c96db-2afa-49fe-8bbd-fa31aafd3a31"
     }
   ], 

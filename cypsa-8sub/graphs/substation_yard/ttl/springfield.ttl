@@ -40,7 +40,7 @@
 
 <urn:cite:cptl:power.8sub.2016_08:Haverbrook.yard.ND_37>
 	rdfs:label "Haverbrook ND 37" ;
-	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
+	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.yard.ND_37> ;
 	cptlc:hasUUID "aec929cb-d172-415a-bfa6-dfe5ffc5520b" ;
 	.
@@ -63,7 +63,7 @@
 
 <urn:cite:cptl:power.8sub.2016_08:Paris.yard.ND_51>
 	rdfs:label "Paris ND 51" ;
-	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
+	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Paris.yard.ND_51> ;
 	cptlc:hasUUID "46d6a8f2-7b44-4f7b-b3f7-446cca40a69e" ;
 	.
@@ -86,7 +86,7 @@
 
 <urn:cite:cptl:power.8sub.2016_08:Haverbrook.yard.ND_38>
 	rdfs:label "Haverbrook ND 38" ;
-	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
+	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.yard.ND_38> ;
 	cptlc:hasUUID "33df492c-261e-4814-81bf-54f6f1d98bcb" ;
 	.

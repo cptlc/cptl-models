@@ -93,17 +93,17 @@
     }, 
     {
       "rdfs:label": "Odgenville ND 3", 
-      "rdf:type": "cptlc:Asset", 
+      "rdf:type": "syard:Node", 
       "cptlc:hasUUID": "638b4fd5-83e0-46ee-950d-acb4bbdbac49"
     }, 
     {
       "rdfs:label": "Cypress Creek ND 21", 
-      "rdf:type": "cptlc:Asset", 
+      "rdf:type": "syard:Node", 
       "cptlc:hasUUID": "2aa9b34c-2114-4f62-9ad1-fc0fa1856c2a"
     }, 
     {
       "rdfs:label": "Shelbyville ND 26", 
-      "rdf:type": "cptlc:Asset", 
+      "rdf:type": "syard:Node", 
       "cptlc:hasUUID": "ed93ca10-cc53-41c1-93c0-d59c9a71535f"
     }
   ], 

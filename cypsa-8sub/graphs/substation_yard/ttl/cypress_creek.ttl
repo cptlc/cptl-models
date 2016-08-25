@@ -48,14 +48,14 @@
 
 <urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_6>
 	rdfs:label "Odgenville ND 6" ;
-	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
+	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_6> ;
 	cptlc:hasUUID "ec8f9af2-491a-45c4-8c1d-965dbcf57f43" ;
 	.
 
 <urn:cite:cptl:power.8sub.2016_08:Haverbrook.yard.ND_36>
 	rdfs:label "Haverbrook ND 36" ;
-	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
+	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.yard.ND_36> ;
 	cptlc:hasUUID "014aa122-014c-4e38-b074-c70d7f28457f" ;
 	.
@@ -95,7 +95,7 @@
 
 <urn:cite:cptl:power.8sub.2016_08:Paris.yard.ND_48>
 	rdfs:label "Paris ND 48" ;
-	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
+	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Paris.yard.ND_48> ;
 	cptlc:hasUUID "78e37d70-c601-489d-a189-9d6aaadbcf41" ;
 	.
@@ -134,7 +134,7 @@
 
 <urn:cite:cptl:power.8sub.2016_08:Shelbyville.yard.ND_28>
 	rdfs:label "Shelbyville ND 28" ;
-	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
+	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Shelbyville.yard.ND_28> ;
 	cptlc:hasUUID "74d4399a-3fcc-49f2-a105-b14afde02529" ;
 	.
@@ -230,7 +230,7 @@
 
 <urn:cite:cptl:power.8sub.2016_08:North_Haverbrook.yard.ND_11>
 	rdfs:label "North Haverbrook ND 11" ;
-	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
+	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:North_Haverbrook.yard.ND_11> ;
 	cptlc:hasUUID "66f2e3e0-097f-413b-bc34-936d5643551a" ;
 	.

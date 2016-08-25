@@ -128,12 +128,12 @@
     }, 
     {
       "rdfs:label": "Haverbrook ND 36", 
-      "rdf:type": "cptlc:Asset", 
+      "rdf:type": "syard:Node", 
       "cptlc:hasUUID": "014aa122-014c-4e38-b074-c70d7f28457f"
     }, 
     {
       "rdfs:label": "Odgenville ND 6", 
-      "rdf:type": "cptlc:Asset", 
+      "rdf:type": "syard:Node", 
       "cptlc:hasUUID": "ec8f9af2-491a-45c4-8c1d-965dbcf57f43"
     }, 
     {
@@ -143,17 +143,17 @@
     }, 
     {
       "rdfs:label": "Shelbyville ND 28", 
-      "rdf:type": "cptlc:Asset", 
+      "rdf:type": "syard:Node", 
       "cptlc:hasUUID": "74d4399a-3fcc-49f2-a105-b14afde02529"
     }, 
     {
       "rdfs:label": "Paris ND 48", 
-      "rdf:type": "cptlc:Asset", 
+      "rdf:type": "syard:Node", 
       "cptlc:hasUUID": "78e37d70-c601-489d-a189-9d6aaadbcf41"
     }, 
     {
       "rdfs:label": "North Haverbrook ND 11", 
-      "rdf:type": "cptlc:Asset", 
+      "rdf:type": "syard:Node", 
       "cptlc:hasUUID": "66f2e3e0-097f-413b-bc34-936d5643551a"
     }
   ], 

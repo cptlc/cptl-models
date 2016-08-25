@@ -99,7 +99,7 @@
 
 <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.yard.ND_18>
 	rdfs:label "Cypress Creek ND 18" ;
-	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
+	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.yard.ND_18> ;
 	cptlc:hasUUID "fae8d46a-169a-426c-8d57-c1055f2c8a7c" ;
 	.
@@ -130,14 +130,14 @@
 
 <urn:cite:cptl:power.8sub.2016_08:Springfield.yard.ND_40>
 	rdfs:label "Springfield ND 40" ;
-	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
+	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Springfield.yard.ND_40> ;
 	cptlc:hasUUID "57000a54-4e79-4167-a9ef-a0da847fe814" ;
 	.
 
 <urn:cite:cptl:power.8sub.2016_08:Springfield.yard.ND_39>
 	rdfs:label "Springfield ND 39" ;
-	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
+	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Springfield.yard.ND_39> ;
 	cptlc:hasUUID "7783e89d-06ed-480e-a682-2a270bf6c979" ;
 	.

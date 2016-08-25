@@ -73,17 +73,17 @@
     }, 
     {
       "rdfs:label": "Springfield ND 39", 
-      "rdf:type": "cptlc:Asset", 
+      "rdf:type": "syard:Node", 
       "cptlc:hasUUID": "7783e89d-06ed-480e-a682-2a270bf6c979"
     }, 
     {
       "rdfs:label": "Cypress Creek ND 18", 
-      "rdf:type": "cptlc:Asset", 
+      "rdf:type": "syard:Node", 
       "cptlc:hasUUID": "fae8d46a-169a-426c-8d57-c1055f2c8a7c"
     }, 
     {
       "rdfs:label": "Springfield ND 40", 
-      "rdf:type": "cptlc:Asset", 
+      "rdf:type": "syard:Node", 
       "cptlc:hasUUID": "57000a54-4e79-4167-a9ef-a0da847fe814"
     }
   ], 

@@ -109,7 +109,7 @@
 
 <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.yard.ND_21>
 	rdfs:label "Cypress Creek ND 21" ;
-	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
+	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.yard.ND_21> ;
 	cptlc:hasUUID "2aa9b34c-2114-4f62-9ad1-fc0fa1856c2a" ;
 	.
@@ -147,7 +147,7 @@
 
 <urn:cite:cptl:power.8sub.2016_08:Shelbyville.yard.ND_26>
 	rdfs:label "Shelbyville ND 26" ;
-	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
+	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Shelbyville.yard.ND_26> ;
 	cptlc:hasUUID "ed93ca10-cc53-41c1-93c0-d59c9a71535f" ;
 	.
@@ -171,7 +171,7 @@
 
 <urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_3>
 	rdfs:label "Odgenville ND 3" ;
-	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
+	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_3> ;
 	cptlc:hasUUID "638b4fd5-83e0-46ee-950d-acb4bbdbac49" ;
 	.

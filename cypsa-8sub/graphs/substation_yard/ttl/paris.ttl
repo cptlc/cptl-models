@@ -33,7 +33,7 @@
 
 <urn:cite:cptl:power.8sub.2016_08:Springfield.yard.ND_42>
 	rdfs:label "Springfield ND 42" ;
-	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
+	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Springfield.yard.ND_42> ;
 	cptlc:hasUUID "35db8ebd-731a-4217-bf46-8e37a4d8b6db" ;
 	.
@@ -105,7 +105,7 @@
 
 <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.yard.ND_24>
 	rdfs:label "Cypress Creek ND 24" ;
-	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
+	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.yard.ND_24> ;
 	cptlc:hasUUID "1fdf2552-3cb4-4901-b42b-56f9d57f4e48" ;
 	.

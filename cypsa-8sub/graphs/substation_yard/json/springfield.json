@@ -73,17 +73,17 @@
     }, 
     {
       "rdfs:label": "Haverbrook ND 37", 
-      "rdf:type": "cptlc:Asset", 
+      "rdf:type": "syard:Node", 
       "cptlc:hasUUID": "aec929cb-d172-415a-bfa6-dfe5ffc5520b"
     }, 
     {
       "rdfs:label": "Paris ND 51", 
-      "rdf:type": "cptlc:Asset", 
+      "rdf:type": "syard:Node", 
       "cptlc:hasUUID": "46d6a8f2-7b44-4f7b-b3f7-446cca40a69e"
     }, 
     {
       "rdfs:label": "Haverbrook ND 38", 
-      "rdf:type": "cptlc:Asset", 
+      "rdf:type": "syard:Node", 
       "cptlc:hasUUID": "33df492c-261e-4814-81bf-54f6f1d98bcb"
     }
   ], 
