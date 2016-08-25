@@ -705,14 +705,14 @@
       "cptlc:hasUUID": "6f59b56e-9a3d-4ab0-aa2a-fa1275a1c792"
     }, 
     {
-      "rdfs:label": "10.32.1.201", 
+      "rdfs:label": "10.32.1.101", 
       "rdf:type": "enet:Host", 
       "cptlc:hasUUID": "590e8f50-f6d2-4eb2-9b78-1f6ad199eb96"
     }, 
     {
       "rdfs:label": "NPV_IFACE_2023", 
       "rdf:type": "enet:NIC", 
-      "enet:hasIPAddressValue": "10.32.1.201", 
+      "enet:hasIPAddressValue": "10.32.1.101", 
       "cptlc:hasUUID": "a617aa43-6dc0-41c6-ae28-f9065075a707"
     }, 
     {
@@ -856,7 +856,7 @@
       "cptlc:hasUUID": "4b2e3684-5b1a-4f6b-a484-b17ef3206395"
     }, 
     {
-      "rdfs:label": "cypress-creek", 
+      "rdfs:label": "Cypress Creek", 
       "rdf:type": "enet:Firewall", 
       "cptlc:hasUUID": "92e20ccf-65ad-49c5-81dc-7fea19061217"
     }, 
@@ -913,7 +913,7 @@
       "cptlc:hasUUID": "25adc925-b32e-4494-bc6e-0c657e2978ce"
     }, 
     {
-      "rdfs:label": "haverbrook", 
+      "rdfs:label": "Haverbrook", 
       "rdf:type": "enet:Firewall", 
       "cptlc:hasUUID": "8d8573af-1bad-4d09-a105-0c953dbfe900"
     }, 
@@ -1055,7 +1055,7 @@
       "cptlc:hasUUID": "715dd0f0-0a59-4225-8ba7-f1b44e021ec3"
     }, 
     {
-      "rdfs:label": "NorthHaverbrook", 
+      "rdfs:label": "North Haverbrook", 
       "rdf:type": "enet:Firewall", 
       "cptlc:hasUUID": "84b5f336-90fe-45ce-bea4-998d8e58c29d"
     }, 
@@ -1107,7 +1107,7 @@
       "cptlc:hasUUID": "18bfdb1d-29b1-4b32-99d1-06ebe7068e7b"
     }, 
     {
-      "rdfs:label": "Ogdenville", 
+      "rdfs:label": "Odgenville", 
       "rdf:type": "enet:Firewall", 
       "cptlc:hasUUID": "e05c7229-c49c-4674-8859-826009187f99"
     }, 
@@ -1211,7 +1211,7 @@
       "cptlc:hasUUID": "6484ab74-45c9-4dde-8d23-a5177f5b9242"
     }, 
     {
-      "rdfs:label": "CapitalCity", 
+      "rdfs:label": "Capital City", 
       "rdf:type": "enet:Firewall", 
       "cptlc:hasUUID": "33337c89-2a8e-46cd-8acd-49a534acbe3f"
     }, 

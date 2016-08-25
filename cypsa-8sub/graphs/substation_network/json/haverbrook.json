@@ -19,7 +19,6 @@
     }, 
     {
       "rdfs:label": "Haverbrook Distance Relay 1", 
-      "enet:hasIPAddressValue": "10.32.1.201", 
       "rdf:type": "snet:DistanceRelay", 
       "cptlc:hasUUID": "f4e4d975-fd2b-4c6e-bd27-d8e01c448c8b"
     }, 
@@ -41,6 +40,7 @@
     {
       "rdfs:label": "Haverbrook Overcurrent Relay 1", 
       "rdf:type": "snet:OvercurrentRelay", 
+      "enet:hasIPAddressValue": "10.32.1.101", 
       "cptlc:hasUUID": "b9eea5ea-401b-45d5-adf9-220722889d23"
     }, 
     {
