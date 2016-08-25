@@ -58,20 +58,13 @@
 	cptlc:hasUUID "c4596b71-031a-4675-be38-22d4bb6973e2" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.c0b6fe63-0b3e-4694-89d2-ae1dc7b95e3c>
-	rdfs:label "192.17.102.104" ;
-	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.c0b6fe63-0b3e-4694-89d2-ae1dc7b95e3c> ;
-	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.c4596b71-031a-4675-be38-22d4bb6973e2> ;
-	cptlc:hasUUID "c0b6fe63-0b3e-4694-89d2-ae1dc7b95e3c" ;
-	.
-
 <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.0e2d7c4e-cbfb-409d-bf65-03974e441ddf>
 	rdfs:label "GigabitEthernet1/1" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:NIC> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.0e2d7c4e-cbfb-409d-bf65-03974e441ddf> ;
 	cptlc:hasUUID "0e2d7c4e-cbfb-409d-bf65-03974e441ddf" ;
 	.
+
 
 <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.6f3df12e-2be0-4be4-93f5-5280d346443f>
 	rdfs:label "GigabitEthernet1/2" ;
@@ -1347,14 +1340,6 @@
 	cptlc:hasUUID "ee6dd930-ea25-4ab0-8237-eac37cbd5331" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Control_Center.network.d7e017c7-824a-41ed-9f16-8eb7ef4362a2>
-	rdfs:label "70.32.128.74" ;
-	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.d7e017c7-824a-41ed-9f16-8eb7ef4362a2> ;
-	cptlc:hasComponent <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.60d306b9-25b5-41eb-b3f4-c9fa5b4d298d> ;
-	cptlc:hasUUID "d7e017c7-824a-41ed-9f16-8eb7ef4362a2" ;
-	.
-
 <urn:cite:cptl:power.8sub.2016_08:Paris.network.SEL_451_4>
 	rdfs:label "10.35.1.104" ;
 	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Host> ;
@@ -1855,7 +1840,6 @@
 	enet:hasIPAddressValue "10.39.1.1" ;
 	cptlc:hasUUID "a1f07e46-6239-42c6-9c50-5956e0776e86" ;
 	.
-
 
 <urn:cite:cptl:power.8sub.2016_08:Control_Center.network.7b97db6e-1454-488d-9b1d-87b89353eeee>
 	rdfs:label "Internet" ;
