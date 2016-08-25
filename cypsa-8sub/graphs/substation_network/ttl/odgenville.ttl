@@ -37,10 +37,10 @@
 	cptlc:hasUUID "b13aafed-99af-4fc0-b53f-e273802a1ea7" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Distance_Relay_1>
+<urn:cite:cptl:power.8sub.2016_08:North_Haverbrook.network.Distance_Relay_1>
 	rdfs:label "North Haverbrook Distance Relay 1" ;
 	rdf:type <urn:cite:cptl:power.snet.2015_07:DistanceRelay> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Distance_Relay_1> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:North_Haverbrook.network.Distance_Relay_1> ;
 	cptlc:hasUUID "ed9c5caf-1309-40b2-81a3-72f1ab68d683" ;
 	.
 
@@ -121,7 +121,7 @@
 	cptlc:hasUUID "bdda7db1-1d59-4b99-a015-008b57cec064" ;
 	enet:hasIPAddressValue "10.34.1.202" ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Odgenville.network.SEL_421_2> ;
-	cptlc:hasFiberEthernetLink <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Distance_Relay_1> ;
+	cptlc:hasFiberEthernetLink <urn:cite:cptl:power.8sub.2016_08:North_Haverbrook.network.Distance_Relay_1> ;
 	.
 
 <urn:cite:cptl:power.8sub.2016_08:Odgenville.network.SEL_451_1>

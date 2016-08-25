@@ -39,10 +39,10 @@
 	cptlc:hasUUID "14684f21-1650-4b0c-a577-5fd1904612d3" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Distance_Relay_2>
+<urn:cite:cptl:power.8sub.2016_08:North_Haverbrook.network.Distance_Relay_2>
 	rdfs:label "North Haverbrook Distance Relay 2" ;
 	rdf:type <urn:cite:cptl:power.snet.2015_07:DistanceRelay> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Distance_Relay_2> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:North_Haverbrook.network.Distance_Relay_2> ;
 	cptlc:hasUUID "e06d008d-f286-4f46-bd2f-bf913aaecc49" ;
 	.
 
@@ -147,7 +147,7 @@
 	cptlc:hasUUID "f8486fb3-83fd-4401-a6f4-f93f7c088e87" ;
 	enet:hasIPAddressValue "10.36.1.201" ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Shelbyville.network.SEL_421_1> ;
-	cptlc:hasFiberEthernetLink <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Distance_Relay_2> ;
+	cptlc:hasFiberEthernetLink <urn:cite:cptl:power.8sub.2016_08:North_Haverbrook.network.Distance_Relay_2> ;
 	.
 
 <urn:cite:cptl:power.8sub.2016_08:Shelbyville.network.SEL_451_5>

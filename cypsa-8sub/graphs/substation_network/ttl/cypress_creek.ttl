@@ -159,13 +159,13 @@
 	cptlc:hasUUID "c56d1e83-8ccc-44fd-93a9-25f50ddb703f" ;
 	enet:hasIPAddressValue "10.31.1.203" ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.network.SEL_421_3> ;
-	cptlc:hasFiberEthernetLink <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Distance_Relay_3> ;
+	cptlc:hasFiberEthernetLink <urn:cite:cptl:power.8sub.2016_08:North_Haverbrook.network.Distance_Relay_3> ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Distance_Relay_3>
+<urn:cite:cptl:power.8sub.2016_08:North_Haverbrook.network.Distance_Relay_3>
 	rdfs:label "North Haverbrook Distance Relay 3" ;
 	rdf:type <urn:cite:cptl:power.snet.2015_07:DistanceRelay> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_Distance_Relay_3> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:North_Haverbrook.network.Distance_Relay_3> ;
 	cptlc:hasUUID "8cc7974c-c37b-4986-a6b4-eb8785b72979" ;
 	.
 

@@ -64,7 +64,7 @@
 	rdfs:label "Cypress Creek ND 21" ;
 	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Cypress_Creek.yard.ND_21> ;
-	syard:hasLine <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_ND_11> ;
+	syard:hasLine <urn:cite:cptl:power.8sub.2016_08:North_Haverbrook.network.ND_11> ;
 	cptlc:hasUUID "513899d7-8143-4922-99b7-68547cca2ba0" ;
 	.
 
@@ -228,10 +228,10 @@
 	cptlc:hasUUID "91c14f8b-6585-4dd1-88b0-862f4abbb9ac" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_ND_11>
+<urn:cite:cptl:power.8sub.2016_08:North_Haverbrook.network.ND_11>
 	rdfs:label "North Haverbrook ND 11" ;
 	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_ND_11> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:North_Haverbrook.network.ND_11> ;
 	cptlc:hasUUID "66f2e3e0-097f-413b-bc34-936d5643551a" ;
 	.
 

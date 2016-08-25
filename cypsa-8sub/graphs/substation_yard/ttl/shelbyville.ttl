@@ -70,10 +70,10 @@
 	cptlc:hasUUID "c1a8b7c9-f471-46d1-a86c-1458cb36e176" ;
 	.
 
-<urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_ND_14>
+<urn:cite:cptl:power.8sub.2016_08:North_Haverbrook.network.ND_14>
 	rdfs:label "North Haverbrook ND 14" ;
 	rdf:type <urn:cite:cptl:general.cptlc.2014_07:Asset> ;
-	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_ND_14> ;
+	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:North_Haverbrook.network.ND_14> ;
 	cptlc:hasUUID "452c1b6d-45a9-47a8-85d8-a0148673c16b" ;
 	.
 
@@ -122,7 +122,7 @@
 	rdfs:label "Shelbyville ND 26" ;
 	rdf:type <urn:cite:cptl:power.syard.2016_07:Node> ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Shelbyville.yard.ND_26> ;
-	syard:hasLine <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.brook_ND_14> ;
+	syard:hasLine <urn:cite:cptl:power.8sub.2016_08:North_Haverbrook.network.ND_14> ;
 	cptlc:hasUUID "3862ee64-8380-4ced-a344-f01e798e7457" ;
 	.
 

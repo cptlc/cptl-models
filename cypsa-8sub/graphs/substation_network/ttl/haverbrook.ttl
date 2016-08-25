@@ -144,7 +144,6 @@
 	rdf:type <urn:cite:cptl:power.snet.2015_07:DistanceRelay> ;
 	cptlc:hasUUID "f4e4d975-fd2b-4c6e-bd27-d8e01c448c8b" ;
 	snet:hasBreakerConnections <urn:cite:cptl:power.8sub.2016_08:Haverbrook.yard.BRK_3735> ;
-	enet:hasIPAddressValue "10.32.1.201" ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.Distance_Relay_1> ;
 	cptlc:hasFiberEthernetLink <urn:cite:cptl:power.8sub.2016_08:Springfield.network.Distance_Relay_3> ;
 	.
@@ -154,6 +153,7 @@
 	rdf:type <urn:cite:cptl:power.snet.2015_07:OvercurrentRelay> ;
 	cptlc:hasUUID "b9eea5ea-401b-45d5-adf9-220722889d23" ;
 	snet:hasBreakerConnections <urn:cite:cptl:power.8sub.2016_08:Haverbrook.yard.BRK_3335> ;
+	enet:hasIPAddressValue "10.32.1.101" ;
 	cptlc:hasURN <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.Overcurrent_Relay_1> ;
 	cptlc:hasSerialLink <urn:cite:cptl:power.8sub.2016_08:Haverbrook.network.Overcurrent_Relay_4> ;
 	.
