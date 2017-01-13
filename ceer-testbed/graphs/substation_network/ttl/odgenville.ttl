@@ -1,0 +1,76 @@
+@prefix cptlc: <urn:cite:cptl:general.cptlc.2014_07:> .
+@prefix enet: <urn:cite:cptl:enterprise.enet.2015_07:> .
+@prefix odgenville.nw2: <urn:cite:ceer:power.testbed.2017_01_V1:Odgenville.network> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix snet: <urn:cite:cptl:power.snet.2015_07:> .
+
+# Testbed Version 1
+#
+# One Substation 
+# + Based on the Odgenville substation from the 8 Substation Model
+# + The substation consists of a switch
+#   - an overcurrent relay connected to the switch via a non-routable network
+#     * the overcurrent relay connects to a breaker in the Odgenville substation.
+#
+
+<urn:cite:ceer:power.testbed.2017_01_V1:Odgenville.network.VLAN_Routed>
+        rdfs:label "Odgenville VLAN - Routed" ;
+	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:VLAN> ;
+	enet:netmask "255.255.255.0" ;
+	enet:vlan_number "103" ;
+	.
+
+<urn:cite:ceer:power.testbed.2017_01_V1:Odgenville.network.VLAN_NR_1>
+        rdfs:label "Odgenville VLAN - Non-Routed 1" ;
+	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:VLAN> ;
+	enet:netmask "255.255.0.0" ;
+	enet:vlan_number "1000" ;
+	.
+
+<urn:cite:ceer:power.testbed.2017_01_V1:Odgenville.network.SEL_3620>
+	rdfs:label "Odgenville SEL 3620" ;
+	rdf:type <urn:cite:sel:power.catalog.2016_07:3620> ;
+	cptlc:hasURN <urn:cite:ceer:power.testbed.2017_01_V1:Odgenville.network.SEL_3620> ;
+	enet:hasNetworkInterface <urn:cite:ceer:power.testbed.2017_01_V1:Odgenville.network.SEL_3620.IF0> ;
+	enet:hasNetworkInterface <urn:cite:ceer:power.testbed.2017_01_V1:Odgenville.network.SEL_3620.IF1> ;
+	.
+
+<urn:cite:ceer:power.testbed.2017_01_V1:Odgenville.network.SEL_3620.IF0>
+	rdfs:label "Odgenville SEL 3620 - Routed Traffic" ;
+	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Interface> ;
+	enet:hasIPAddressValue "192.168.4.200" ;
+	cptlc:hasMACAddressValue "2c:c2:60:77:b3:a0" ;
+	enet:hasVLAN <urn:cite:ceer:power.testbed.2017_01_V1:Odgenville.network.VLAN_Routed> ;
+        .
+
+<urn:cite:ceer:power.testbed.2017_01_V1:Odgenville.network.SEL_3620.IF1>
+	rdfs:label "Odgenville SEL 3620 - Non Routed" ;
+	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Interface> ;
+	enet:hasIPAddressValue "10.34.1.16" ;
+	enet:hasMACAddressValue "2c:d9:d3:4a:4d:f6" ;
+	enet:hasVLAN <urn:cite:ceer:power.testbed.2017_01_V1:Odgenville.network.VLAN_NR_1> ;
+	.
+
+<urn:cite:cptl:power:ceer.2017_01_V1:Odgenville.network.SEL_351_1>
+        rdfs:label "Odgenville SEL 351 1" ;
+	rdf:type <urn:cite:sel:power.catalog.2016_07:351> ;
+	enet:hasIPAddressValue "10.34.1.101" ;
+	cptlc:hasURN <urn:cite:cptl:power:ceer.2017_01_V1:Odgenville.network.SEL_351_1> ;
+	enet:hasNetworkInterface <urn:cite:ceer:power.testbed.2017_01_V1:Odgenville.network.SEL_351_1.IF0> ;
+	snet:hasBreakerConnections <urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_14> ;
+	.
+
+<urn:cite:ceer:power.testbed.2017_01_V1:Odgenville.network.SEL_351_1.IF0>
+	rdfs:label "Odgenville SEL 351 1 - Non Routed" ;
+	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Interface> ;
+	enet:hasIPAddressValue "10.34.1.101" ;
+	cptlc:hasMACAddressValue "2c:4a:60:70:63:a9" ;
+	enet:hasVLAN <urn:cite:ceer:power.testbed.2017_01_V1:Odgenville.network.VLAN_NR_1> ;
+        .
+
+<urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_14> 
+        rdfs:label "Odgenville BRK 14" ;
+	rdf:type <urn:cite:cptl:power.syard.2016_07:Breaker> ;
+	.							  
+

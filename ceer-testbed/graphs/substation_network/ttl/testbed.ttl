@@ -1,0 +1,4 @@
+
+<urn:cite:cptl:power.ceer.2017_01:TestbedHardware.network.SEL_3620>
+	rdfs:label "SEL 3620" ;
+        rdf:type <urn:cite:sel:power.catalog.2016_07:3620> ;

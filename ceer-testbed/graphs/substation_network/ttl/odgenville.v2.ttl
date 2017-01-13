@@ -1,0 +1,42 @@
+@prefix cptlc: <urn:cite:cptl:general.cptlc.2014_07:> .
+@prefix enet: <urn:cite:cptl:enterprise.enet.2015_07:> .
+@prefix odgenville.V2: <urn:cite:ceer:power.testbed.2017_01_V2:Odgenville.network> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix snet: <urn:cite:cptl:power.snet.2015_07:> .
+
+# Testbed Version 2
+#
+# One Substation
+# + Based on the Odgenville substation from the 8 substation model
+#   - Added an additional overcurrent relay
+#   - Added a firewall in front of the VPN
+
+<urn:cite:cptl:power:ceer.2017_01_V2:Odgenville.network.FW_2>
+	rdfs:label "Odgenville Firewall 2" ;
+	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Firewall> ;
+	enet:hasNetworkInterface <urn:cite:cptl:power:ceer.2017_01_V2:Odgenville.network.FW_2.IF0> ;
+	enet:hasNetworkInterface <urn:cite:cptl:power:ceer.2017_01_V2:Odgenville.network.FW_2.IF1> ;
+
+
+<urn:cite:cptl:power:ceer.2017_01_V2:Odgenville.network.SEL_351_2>
+        rdfs:label "Odgenville SEL 351 2" ;
+	rdf:type <urn:cite:sel:power.catalog.2016_07:351> ;
+	cptlc:hasURN <urn:cite:cptl:power:ceer.2017_01_V2:Odgenville.network.SEL_351_2> ;
+	enet:hasNetworkInterface <urn:cite:ceer:power.testbed.2017_01_V2:Odgenville.network.SEL_351_2.IF0> ;
+	snet:hasBreakerConnections <urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_42> ;
+	.
+
+<urn:cite:ceer:power.testbed.2017_01_V2:Odgenville.network.SEL_351_2.IF0>
+	rdfs:label "Odgenville SEL 351 2 - Non Routed" ;
+	rdf:type <urn:cite:cptl:enterprise.enet.2015_07:Interface> ;
+	enet:hasIPAddressValue "10.34.1.102" ;
+	cptlc:hasMACAddressValue "2c:4a:60:70:63:b9" ;
+	enet:hasVLAN <urn:cite:ceer:power.testbed.2017_01_V2:Odgenville.network.VLAN_NR_1> ;
+        .
+
+<urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_42> 
+        rdfs:label "Odgenville BRK 42" ;
+	rdf:type <urn:cite:cptl:power.syard.2016_07:Breaker> ;
+	.							  
+

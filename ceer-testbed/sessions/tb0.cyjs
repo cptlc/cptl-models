@@ -1,0 +1,607 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.2.0",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "General SPARQL",
+    "name" : "General SPARQL",
+    "SUID" : 80,
+    "__Annotations" : [ ],
+    "selected" : true,
+    "PN" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "156",
+        "shared_name" : "Odgenville BRK 56",
+        "ip" : "null",
+        "name" : "",
+        "description" : "",
+        "SUID" : 156,
+        "id" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_56",
+        "type" : "place",
+        "priority" : 0,
+        "tactivity" : 0,
+        "selected" : false,
+        "token" : 0
+      }
+    }, {
+      "data" : {
+        "id" : "152",
+        "shared_name" : "Odgenville ND 6",
+        "ip" : "null",
+        "name" : "Odgenville ND 6",
+        "SUID" : 152,
+        "id" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_6",
+        "type" : "urn:cite:cptl:power.syard.2016_07:Node",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "150",
+        "shared_name" : "Odgenville ND 5",
+        "ip" : "null",
+        "name" : "Odgenville ND 5",
+        "SUID" : 150,
+        "id" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_5",
+        "type" : "urn:cite:cptl:power.syard.2016_07:Bus",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "145",
+        "shared_name" : "Odgenville ND 4",
+        "ip" : "null",
+        "name" : "Odgenville ND 4",
+        "SUID" : 145,
+        "id" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_4",
+        "type" : "urn:cite:cptl:power.syard.2016_07:Bus",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "143",
+        "shared_name" : "Odgenville ND 3",
+        "ip" : "null",
+        "name" : "Odgenville ND 3",
+        "SUID" : 143,
+        "id" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_3",
+        "type" : "urn:cite:cptl:power.syard.2016_07:Node",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "142",
+        "shared_name" : "Odgenville BRK 34",
+        "ip" : "null",
+        "name" : "Odgenville BRK 34",
+        "SUID" : 142,
+        "id" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_34",
+        "type" : "urn:cite:cptl:power.syard.2016_07:Breaker",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "140",
+        "shared_name" : "Odgenville BRK 25",
+        "ip" : "null",
+        "name" : "Odgenville BRK 25",
+        "SUID" : 140,
+        "id" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_25",
+        "type" : "urn:cite:cptl:power.syard.2016_07:Breaker",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "138",
+        "shared_name" : "Odgenville BRK 42",
+        "ip" : "null",
+        "name" : "Odgenville BRK 42",
+        "SUID" : 138,
+        "id" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_42",
+        "type" : "urn:cite:cptl:power.syard.2016_07:Breaker",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "136",
+        "shared_name" : "Odgenville BRK 62",
+        "ip" : "null",
+        "name" : "Odgenville BRK 62",
+        "SUID" : 136,
+        "id" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_62",
+        "type" : "urn:cite:cptl:power.syard.2016_07:Breaker",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "134",
+        "shared_name" : "Odgenville BRK 23",
+        "ip" : "null",
+        "name" : "Odgenville BRK 23",
+        "SUID" : 134,
+        "id" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_23",
+        "type" : "urn:cite:cptl:power.syard.2016_07:Breaker",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "132",
+        "shared_name" : "Odgenville ND 1",
+        "ip" : "null",
+        "name" : "Odgenville ND 1",
+        "SUID" : 132,
+        "id" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_1",
+        "type" : "urn:cite:cptl:power.syard.2016_07:Node",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "131",
+        "shared_name" : "Odgenville UN Gen1",
+        "ip" : "null",
+        "name" : "Odgenville UN Gen1",
+        "SUID" : 131,
+        "id" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.UN_Gen1",
+        "type" : "urn:cite:cptl:power.syard.2016_07:Generator",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "129",
+        "shared_name" : "Odgenville ND 2",
+        "ip" : "null",
+        "name" : "Odgenville ND 2",
+        "SUID" : 129,
+        "id" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_2",
+        "type" : "urn:cite:cptl:power.syard.2016_07:Bus",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "128",
+        "shared_name" : "Odgenville BRK 12",
+        "ip" : "null",
+        "name" : "Odgenville BRK 12",
+        "SUID" : 128,
+        "id" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_12",
+        "type" : "urn:cite:cptl:power.syard.2016_07:Breaker",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "109",
+        "shared_name" : "Odgenville BRK 14",
+        "ip" : "null",
+        "name" : "Odgenville BRK 14",
+        "description" : "",
+        "SUID" : 109,
+        "id" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_14",
+        "type" : "urn:cite:cptl:power.syard.2016_07:Breaker",
+        "priority" : 0,
+        "tactivity" : 0,
+        "selected" : false,
+        "token" : 0
+      }
+    }, {
+      "data" : {
+        "id" : "106",
+        "shared_name" : "Odgenville VLAN - Control Center",
+        "ip" : "null",
+        "name" : "Odgenville VLAN - Control Center",
+        "SUID" : 106,
+        "id" : "urn:cite:cptl:power.ceer.2017_01:Odgenville.network.VLAN_ControlCenter",
+        "type" : "urn:cite:cptl:enterprise.enet.2015_07:VLAN",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "104",
+        "shared_name" : "Odgenville SEL 351 1 - Non Routed",
+        "ip" : "10.34.1.101",
+        "name" : "Odgenville SEL 351 1 - Non Routed",
+        "SUID" : 104,
+        "id" : "urn:cite:cptl:power.ceer.2017_01:Odgenville.network.SEL_351_1.IF0",
+        "type" : "urn:cite:cptl:enterprise.enet.2015_07:Interface",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "102",
+        "shared_name" : "Odgenville SEL 351 1",
+        "ip" : "10.34.1.101",
+        "name" : "Odgenville SEL 351 1",
+        "SUID" : 102,
+        "id" : "urn:cite:cptl:power:ceer.2017_01:Odgenville.network.SEL_351_1",
+        "type" : "urn:cite:sel:power.catalog.2016_07:351",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "100",
+        "shared_name" : "Odgenville VLAN - Non-Routed 1",
+        "ip" : "null",
+        "name" : "Odgenville VLAN - Non-Routed 1",
+        "SUID" : 100,
+        "id" : "urn:cite:cptl:power.ceer.2017_01:Odgenville.network.VLAN_NR_1",
+        "type" : "urn:cite:cptl:enterprise.enet.2015_07:VLAN",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "98",
+        "shared_name" : "Odgenville SEL 3620 - Control Center",
+        "ip" : "192.168.4.200",
+        "name" : "Odgenville SEL 3620 - Control Center",
+        "SUID" : 98,
+        "id" : "urn:cite:cptl:power.ceer.2017_01:Odgenville.network.SEL_3620.IF0",
+        "type" : "urn:cite:cptl:enterprise.enet.2015_07:Interface",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "96",
+        "shared_name" : "Odgenville SEL 3620 - Non Routed",
+        "ip" : "10.34.1.16",
+        "name" : "Odgenville SEL 3620 - Non Routed",
+        "SUID" : 96,
+        "id" : "urn:cite:cptl:power.ceer.2017_01:Odgenville.network.SEL_3620.IF1",
+        "type" : "urn:cite:cptl:enterprise.enet.2015_07:Interface",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "92",
+        "shared_name" : "",
+        "ip" : "null",
+        "name" : "Odgenville SEL 3620",
+        "description" : "",
+        "SUID" : 92,
+        "id" : "urn:cite:cptl:power.ceer.2017_01:Odgenville.network.SEL_3620",
+        "type" : "urn:cite:sel:power.catalog.2016_07:3620",
+        "priority" : 0,
+        "tactivity" : 0,
+        "selected" : false,
+        "token" : 0
+      }
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "158",
+        "source" : "156",
+        "target" : "152",
+        "shared_name" : "",
+        "shared_interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "src" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_56",
+        "name" : "",
+        "interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "weight" : 1,
+        "description" : "",
+        "SUID" : 158,
+        "dest" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_6",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "153",
+        "source" : "152",
+        "target" : "136",
+        "shared_interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "src" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_6",
+        "interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "SUID" : 153,
+        "dest" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_62",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "157",
+        "source" : "150",
+        "target" : "156",
+        "shared_interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "src" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_5",
+        "interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "SUID" : 157,
+        "dest" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_56",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "155",
+        "source" : "145",
+        "target" : "109",
+        "shared_interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "src" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_4",
+        "interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "SUID" : 155,
+        "dest" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_14",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "154",
+        "source" : "145",
+        "target" : "142",
+        "shared_interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "src" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_4",
+        "interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "SUID" : 154,
+        "dest" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_34",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "147",
+        "source" : "143",
+        "target" : "134",
+        "shared_interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "src" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_3",
+        "interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "SUID" : 147,
+        "dest" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_23",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "144",
+        "source" : "142",
+        "target" : "143",
+        "shared_interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "src" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_34",
+        "interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "SUID" : 144,
+        "dest" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_3",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "151",
+        "source" : "140",
+        "target" : "150",
+        "shared_interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "src" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_25",
+        "interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "SUID" : 151,
+        "dest" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_5",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "146",
+        "source" : "138",
+        "target" : "145",
+        "shared_interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "src" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_42",
+        "interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "SUID" : 146,
+        "dest" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_4",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "135",
+        "source" : "134",
+        "target" : "129",
+        "shared_interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "src" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_23",
+        "interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "SUID" : 135,
+        "dest" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_2",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "149",
+        "source" : "132",
+        "target" : "109",
+        "shared_interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "src" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_1",
+        "interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "SUID" : 149,
+        "dest" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_14",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "148",
+        "source" : "132",
+        "target" : "128",
+        "shared_interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "src" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_1",
+        "interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "SUID" : 148,
+        "dest" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_12",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "133",
+        "source" : "131",
+        "target" : "132",
+        "shared_interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "src" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.UN_Gen1",
+        "interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "SUID" : 133,
+        "dest" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_1",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "141",
+        "source" : "129",
+        "target" : "140",
+        "shared_interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "src" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_2",
+        "interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "SUID" : 141,
+        "dest" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_25",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "139",
+        "source" : "129",
+        "target" : "138",
+        "shared_interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "src" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_2",
+        "interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "SUID" : 139,
+        "dest" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_42",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "137",
+        "source" : "129",
+        "target" : "136",
+        "shared_interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "src" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_2",
+        "interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "SUID" : 137,
+        "dest" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_62",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "130",
+        "source" : "128",
+        "target" : "129",
+        "shared_interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "src" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_12",
+        "interaction" : "urn:cite:cptl:power.syard.2016_07:hasLine",
+        "SUID" : 130,
+        "dest" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.ND_2",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "110",
+        "source" : "104",
+        "target" : "109",
+        "shared_name" : "",
+        "shared_interaction" : "urn:cite:cptl:power.snet.2015_07:hasBreakerConnections",
+        "src" : "urn:cite:cptl:power.ceer.2017_01:Odgenville.network.SEL_351_1.IF0",
+        "name" : "",
+        "interaction" : "urn:cite:cptl:power.snet.2015_07:hasBreakerConnections",
+        "weight" : 1,
+        "description" : "",
+        "SUID" : 110,
+        "dest" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_14",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "108",
+        "source" : "104",
+        "target" : "100",
+        "shared_interaction" : "urn:cite:cptl:enterprise.enet.2015_07:hasVLAN",
+        "src" : "urn:cite:cptl:power.ceer.2017_01:Odgenville.network.SEL_351_1.IF0",
+        "interaction" : "urn:cite:cptl:enterprise.enet.2015_07:hasVLAN",
+        "SUID" : 108,
+        "dest" : "urn:cite:cptl:power.ceer.2017_01:Odgenville.network.VLAN_NR_1",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "126",
+        "source" : "102",
+        "target" : "109",
+        "shared_interaction" : "urn:cite:cptl:power.snet.2015_07:hasBreakerConnections",
+        "src" : "urn:cite:cptl:power:ceer.2017_01:Odgenville.network.SEL_351_1",
+        "interaction" : "urn:cite:cptl:power.snet.2015_07:hasBreakerConnections",
+        "SUID" : 126,
+        "dest" : "urn:cite:cptl:power.8sub.2016_08:Odgenville.yard.BRK_14",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "105",
+        "source" : "102",
+        "target" : "104",
+        "shared_interaction" : "urn:cite:cptl:enterprise.enet.2015_07:hasNetworkInterface",
+        "src" : "urn:cite:cptl:power:ceer.2017_01:Odgenville.network.SEL_351_1",
+        "interaction" : "urn:cite:cptl:enterprise.enet.2015_07:hasNetworkInterface",
+        "SUID" : 105,
+        "dest" : "urn:cite:cptl:power.ceer.2017_01:Odgenville.network.SEL_351_1.IF0",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "103",
+        "source" : "102",
+        "target" : "102",
+        "shared_interaction" : "urn:cite:cptl:general.cptlc.2014_07:hasURN",
+        "src" : "urn:cite:cptl:power:ceer.2017_01:Odgenville.network.SEL_351_1",
+        "interaction" : "urn:cite:cptl:general.cptlc.2014_07:hasURN",
+        "SUID" : 103,
+        "dest" : "urn:cite:cptl:power:ceer.2017_01:Odgenville.network.SEL_351_1",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "107",
+        "source" : "98",
+        "target" : "106",
+        "shared_interaction" : "urn:cite:cptl:enterprise.enet.2015_07:hasVLAN",
+        "src" : "urn:cite:cptl:power.ceer.2017_01:Odgenville.network.SEL_3620.IF0",
+        "interaction" : "urn:cite:cptl:enterprise.enet.2015_07:hasVLAN",
+        "SUID" : 107,
+        "dest" : "urn:cite:cptl:power.ceer.2017_01:Odgenville.network.VLAN_ControlCenter",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "101",
+        "source" : "96",
+        "target" : "100",
+        "shared_interaction" : "urn:cite:cptl:enterprise.enet.2015_07:hasVLAN",
+        "src" : "urn:cite:cptl:power.ceer.2017_01:Odgenville.network.SEL_3620.IF1",
+        "interaction" : "urn:cite:cptl:enterprise.enet.2015_07:hasVLAN",
+        "SUID" : 101,
+        "dest" : "urn:cite:cptl:power.ceer.2017_01:Odgenville.network.VLAN_NR_1",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "99",
+        "source" : "92",
+        "target" : "98",
+        "shared_interaction" : "urn:cite:cptl:enterprise.enet.2015_07:hasNetworkInterface",
+        "src" : "urn:cite:cptl:power.ceer.2017_01:Odgenville.network.SEL_3620",
+        "interaction" : "urn:cite:cptl:enterprise.enet.2015_07:hasNetworkInterface",
+        "SUID" : 99,
+        "dest" : "urn:cite:cptl:power.ceer.2017_01:Odgenville.network.SEL_3620.IF0",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "97",
+        "source" : "92",
+        "target" : "96",
+        "shared_interaction" : "urn:cite:cptl:enterprise.enet.2015_07:hasNetworkInterface",
+        "src" : "urn:cite:cptl:power.ceer.2017_01:Odgenville.network.SEL_3620",
+        "interaction" : "urn:cite:cptl:enterprise.enet.2015_07:hasNetworkInterface",
+        "SUID" : 97,
+        "dest" : "urn:cite:cptl:power.ceer.2017_01:Odgenville.network.SEL_3620.IF1",
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "93",
+        "source" : "92",
+        "target" : "92",
+        "shared_name" : "",
+        "shared_interaction" : "urn:cite:cptl:general.cptlc.2014_07:hasURN",
+        "src" : "urn:cite:cptl:power.ceer.2017_01:Odgenville.network.SEL_3620",
+        "name" : "",
+        "interaction" : "urn:cite:cptl:general.cptlc.2014_07:hasURN",
+        "weight" : 1,
+        "description" : "",
+        "SUID" : 93,
+        "dest" : "urn:cite:cptl:power.ceer.2017_01:Odgenville.network.SEL_3620",
+        "selected" : false
+      }
+    } ]
+  }
+}
